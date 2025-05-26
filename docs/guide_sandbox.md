@@ -13,13 +13,19 @@ There are various ways how you can access the OpenStudyBuilder solution as a run
 
 The OpenStudyBuilder project is progressing with a sandbox environment where people can register to play around with the open-source solution without needing to install anything. This provides an excellent opportunity to get a more detailed impression of the metadata repository (MDR). The sandbox allows for investigations on how standards can be maintained, differences identified, how studies can be created with all protocol information and much more. The API is also accessible to see the capabilities for connecting tools.  And lastly, a database browser allows for check out details of the biomedical concept. 
 
+## Sandbox environment
+
+The OpenStudyBuilder project offers a fully featured sandbox environment, allowing users to explore and experiment with the open-source solution—no installation required. This environment is ideal for gaining hands-on experience with both the metadata repository (MDR) and the study definition repository (SDR) content part.
+
+The sandbox includes a user-friendly web application, a powerful API for programmatic access, comprehensive tool documentation, and database tools such as NeoDash dashboards. Additionally, it provides a graph browser and Bloom for querying and visualizing the underlying graph data model and database content.
+
 ### Overview
 
 The following tools and URLs are available after registration
 
 Tool | URL | Note
 --|--|--
-OpenStudyBuilder App | [https://openstudybuilder.northeurope.cloudapp.azure.com/](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank} | main application
+OpenStudyBuilder Application | [https://openstudybuilder.northeurope.cloudapp.azure.com/](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank} | main application
 Documentation | [https://openstudybuilder.northeurope.cloudapp.azure.com/doc/](https://openstudybuilder.northeurope.cloudapp.azure.com/doc/){target=_blank} | product related documentation
 API | [https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs](https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs){target=_blank} | API documentation and running API calls
 NeoDash | [https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/](https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/){target=_blank} | Dashboard for underlying database
@@ -28,7 +34,9 @@ Bloom | [https://openstudybuilder.northeurope.cloudapp.azure.com/bloom/](https:/
 
 ### Getting Access
 
-To get access to the Sandbox environment, you can simply send a mail to openstudybuilder@neotechnology.com with the subject "Request Sandbox Access". Your e-mail will be used together with Microsoft authentication to access the various tools via browser. Please be aware that your mail might be exposed when you perform changes as all changes are tracked for a version history.
+The public sandbox provides a convenient way for anyone to explore and test OpenStudyBuilder without the need to install any software. To request access to the sandbox environment, simply send an email to <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">openstudybuilder@neotechnology.com (Request Sandbox Access)</a>. 
+
+Please be aware that the sandbox is refreshed periodically, which means any data you create will be lost after a refresh. Additionally, all data in the sandbox is publicly accessible to anyone with sandbox access. For transparency and traceability, all data entries are tracked with the user's email address and are visible to everyone using the sandbox. Therefore, please avoid entering any sensitive or confidential information. The sandbox is intended for evaluation and learning purposes only.
 
 ### The Application
 
@@ -105,8 +113,6 @@ docker compose up -d --build
 ```
 
 You can also checkout the readme files in the subfolders to install individual components. If you also want to load additional CDISC terminology, you can follow along the "mdr-standards-import" [readme](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/blob/main/mdr-standards-import/README.md). You might not want to load all CTs at once, but load just those you need.
-
-Please note that Windows is not recommended, but it is working.
 
 ### Overview
 
