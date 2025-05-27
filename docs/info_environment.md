@@ -66,13 +66,6 @@ For more information about the evaluation environment, please use the following 
 
 ## Public Sandbox Access
 
-The public sandbox is freely available for everyone to test the solution without the need to install anything. You can requested access to the sandbox environment via mail: <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">
-openstudybuilder@neotechnology.com (Request Sandbox Access)</a>. 
-
-Be aware that the sandbox is refreshed periodically, so any data you create will be lost after a refresh. Furthermore, note that any data in the sandbox is publicly available to everyone with access to the sandbox. Due to the traceability of processes, any data entry is tracked with the user mail and visible to everyone with access to the sandbox.
-
-## Public Sandbox Access
-
 The public sandbox provides a convenient way for anyone to explore and test OpenStudyBuilder without the need to install any software. To request access to the sandbox environment, simply send an email to <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">openstudybuilder@neotechnology.com (Request Sandbox Access)</a>. 
 
 The solution can then be accessed via the following link: [OpenStudyBuilder Sandbox](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank}.
