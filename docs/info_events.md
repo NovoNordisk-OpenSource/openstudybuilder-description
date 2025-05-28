@@ -6,6 +6,7 @@ Date | Event | Status
 -- | -- | --
 2 June 2025 | Community Meeting (virtual) | Scheduled
 2 June 2025 | OSB-Trail-SystemEngineers (virtual) | Scheduled
+24 June 2025 | CDISC GUF 2025 - Paris, France | Scheduled
 7 July 2025 | Community Meeting (virtual) | Scheduled
 23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland) | Planned
 23 October  2025 | PHUSE SDE Copenhagen, Denmark | Planned
@@ -26,6 +27,14 @@ You can register for the event [here](https://www.linkedin.com/events/openstudyb
 This is the next session in our COSA Collaboration Team for OSB-Trail-SystemEngineers!
 
 You can register for the event [here](https://www.linkedin.com/events/osb-trail-systemengineers-testi7330604359245832193/comments/){target=_blank}.
+
+## CDISC GUF 2025
+
+(24 June 2025, Paris, France)
+
+We will be at the French CDISC User Forum in Paris. Nicolas will talk about the CDISC 360i project and the progress.
+
+You can register for the event [here](https://www.eventbrite.com/e/cdisc-guf-2025-tickets-1370572532339){target=_blank}.
 
 ## Community Meeting (virtual)
 
