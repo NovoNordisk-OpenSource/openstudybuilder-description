@@ -26,6 +26,8 @@ nav:
       - Library: info_demo.md
       - Manage Activity: info_demo_lib_activities.md
       - Create Study: info_demo_study_create.md
+    - Training:
+      - Workshop SoA: workshop_2025.md
   - Guides:
     - Introduction: guide_intro.md
     - Overview: guide_overview.md

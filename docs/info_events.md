@@ -4,29 +4,11 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-2 June 2025 | Community Meeting (virtual) | Scheduled
-2 June 2025 | OSB-Trail-SystemEngineers (virtual) | Scheduled
 24 June 2025 | CDISC GUF 2025 - Paris, France | Scheduled
 7 July 2025 | Community Meeting (virtual) | Scheduled
 23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland) | Planned
 23 October  2025 | PHUSE SDE Copenhagen, Denmark | Planned
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Planned
-
-## Community Meeting (virtual)
-
-(2 June 2025, 15:00-16:00 CET, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7309854821560307712/comments/){target=_blank}.
-
-## OSB-Trail-SystemEngineers (virtual)
-
-(2 June 2025, 16:00-17:00 CET, virtual event)
-
-This is the next session in our COSA Collaboration Team for OSB-Trail-SystemEngineers!
-
-You can register for the event [here](https://www.linkedin.com/events/osb-trail-systemengineers-testi7330604359245832193/comments/){target=_blank}.
 
 ## CDISC GUF 2025
 
@@ -66,7 +48,7 @@ Registration and additional information available [here](https://www.phuse-event
 
 ## ADCM
 
-(15-17 March 2025 - Berlin, Germany)
+(15-17 March 2026 - Berlin, Germany)
 
 We plan to be at the ADCM and will submit a presentation.
 
