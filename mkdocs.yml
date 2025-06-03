@@ -12,10 +12,13 @@ nav:
     - Status: status.md
     - Events: info_events.md
     - Past Events: info_events_past.md
-    - Contribution: info_contribution.md
-    - OSB Hub: info_osb_hub.md
-    - DDF Vision: info_ddf_vision.md
-    - DDF Context: info_ddf.md
+    - Scope &amp; Direction: info_scope_direction.md
+    - Collaboration:
+      - Open Source: info_open_source.md
+      - Contribution: info_contribution.md
+      - OSB Hub: info_osb_hub.md
+      - DDF Vision: info_ddf_vision.md
+      - DDF Context: info_ddf.md
     - Environments: info_environment.md
     - Costs: info_costs.md
     - Integrations: info_integrations.md
@@ -58,8 +61,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
   favicon: favicon.ico
-  icon:
-    logo: logo
+  logo: LogoMini.png
   font:
     text: Roboto
     code: Roboto Mono
