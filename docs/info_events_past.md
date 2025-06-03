@@ -4,6 +4,8 @@
 
 Date | Event 
 -- | --
+2 June 2025 | OSB-Trail-SystemEngineers (virtual)
+2 June 2025 | Community Meeting (virtual)
 16 May 2025 | CDISC 360i Working Group - Geneva, Switzerland
 14-15 May 2025 | CDISC EU Interchange - Geneva, Switzerland
 13 May 2025 | Workshop at CDISC EU Interchange - Geneva, Switzerland
@@ -17,6 +19,24 @@ Date | Event
 10 February 2025 | Community Meeting (virtual) 
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
+
+## OSB-Trail-SystemEngineers (virtual)
+
+(2 June 2025, 16:00-17:00 CET, virtual event)
+
+This session of our COSA Collaboration Team for OSB-Trail-SystemEngineers focused on a USDM importer for OpenStudyBuilder and our testing strategies.
+
+Checkout the presentation [here](./presentations/2025-06-02-osb-hub-trail-SystemEngineering.pdf){target=_blank}.
+
+Video recordings will be available soon.
+
+<!-- Meeting outcome is documented [here](./presentations/2025-04-28-osb-hub-trail-SystemEngineering-summary.pdf){target=_blank}. -->
+
+### Community Meeting (virtual)
+
+(2 June 2025, 15:00-16:00 CET, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ### CDISC 360i Working Group at CDISC EU Interchange 
 
@@ -59,7 +79,7 @@ We discussed various aspects of the OpenStudyBuilder in our monthly community me
 
 This session in our COSA Collaboration Team for OSB-Trail-SystemEngineers focused on Testing, Initial Loading, and Migrations.
 
-The slides will come soon.
+Checkout the presentation [here](./presentations/2025-04-28-osb-hub-trail-SystemEngineering.pdf){target=_blank}.
 
 Meeting outcome is documented [here](./presentations/2025-04-28-osb-hub-trail-SystemEngineering-summary.pdf){target=_blank}.
 
