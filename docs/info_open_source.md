@@ -35,4 +35,4 @@ This decision was shaped by several key motivations:
 
 - **Balancing Investment and Risk**: Open source allows the cost and responsibility of building and maintaining such a solution to be shared. It reduces duplication of effort and spreads the risk across organizations with common goals.
 
-OpenStudyBuilder has the potential to become a **de facto industry standard** - enabling a modular, interoperable ecosystem where connected solutions exchange data seamlessly, supporting a fully digital workflow without the need for manual handovers or document-driven processes.
+OpenStudyBuilder has the potential to become a **preferred industry solution** - enabling a modular, interoperable ecosystem where connected solutions exchange data seamlessly, supporting a fully digital workflow without the need for manual handovers or document-driven processes.
