@@ -56,6 +56,12 @@ This presentation provides a deep dive into the design and implementation of the
 
 The presentation slides are available [here](./presentations/2025-05-14-CDISC-EU-EnhancedBC-in-OSB-360i.pdf){target=_blank}.
 
+**Bringing the USDM Model to the Catwalk**
+
+This presentation shows the ups and downs when working with the USDM model in interactions with clinical operations.
+
+The presentation slides are available [here](./presentations/2025-05-14-Bringing-the-USDM-Model-to-the-Catwalk.pdf){target=_blank}.
+
 ### Workshop at CDISC EU Interchange 
 
 (13 May 2025 - Geneva, Switzerland with Mikkel Traun, Nicolas de Saint-Jorre and Katja Glass)
