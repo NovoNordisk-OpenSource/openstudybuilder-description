@@ -20,7 +20,7 @@ Date | Event
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
 
-## OSB-Trail-SystemEngineers (virtual)
+### OSB-Trail-SystemEngineers (virtual)
 
 (2 June 2025, 16:00-17:00 CET, virtual event)
 
@@ -28,7 +28,7 @@ This session of our COSA Collaboration Team for OSB-Trail-SystemEngineers focuse
 
 Checkout the presentation [here](./presentations/2025-06-02-osb-hub-trail-SystemEngineering.pdf){target=_blank}.
 
-Video recordings will be available soon.
+**Recording** - Introduction ([YouTube](https://youtu.be/nSxa4gUCXeA)), USDM Importer ([YouTube](https://youtu.be/eJ4C1ZFtK-8)), Testing Strategies ([YouTube](https://youtu.be/LSGBAjjuFHE))
 
 <!-- Meeting outcome is documented [here](./presentations/2025-04-28-osb-hub-trail-SystemEngineering-summary.pdf){target=_blank}. -->
 
