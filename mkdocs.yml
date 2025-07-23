@@ -26,6 +26,7 @@ nav:
     - Resources: info_resources.md
     - Newsletter: info_newsletter.md
     - Demonstrations:
+      - Videos: info_demo_videos.md
       - Library: info_demo.md
       - Manage Activity: info_demo_lib_activities.md
       - Create Study: info_demo_study_create.md
