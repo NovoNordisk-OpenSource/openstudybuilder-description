@@ -8,7 +8,7 @@ Checkout available resources!
 
 - Project website: [https://openstudybuilder.com](https://openstudybuilder.com)
 - Newsletter: [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}
-- Demonstration Video: [YouTube](https://youtu.be/dL5CY0BwfEs){target=_blank}
+- Demonstration Videos: [Overview (2025)](https://youtu.be/7mVddXicmmw){target=_blank}, [Details (2023)](https://youtu.be/dL5CY0BwfEs){target=_blank}
 - Demonstration Flow: [Homepage](./info_demo.md)
 - Repository: [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/){target=_blank}
 - Slack: [Join](https://join.slack.com/t/openstudybuilder/shared_invite/zt-19mtauzic-Jvrhtmy7hGstgyiIvB1Wsw){target=_blank}
