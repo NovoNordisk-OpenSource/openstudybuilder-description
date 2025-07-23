@@ -44,6 +44,18 @@ img {
   border: none;
 }
 
+.imageMaxWidth600 {
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.imageMaxWidth400 {
+  max-width: 400px !important;
+  height: auto;
+}
+
 .md-header__button.md-logo img {
   border: none !important;
   box-shadow: none !important;

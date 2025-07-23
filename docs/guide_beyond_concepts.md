@@ -1,4 +1,4 @@
-# Beyond concepts {: class="guideH1"}
+# Beyond Concepts {: class="guideH1"}
 
 (created 2025-03-05) 
 {: class="guideCreated"}
