@@ -8,6 +8,7 @@ Date | Event | Status
 8 September 2025 | Community Meeting (virtual) | Scheduled
 23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland) | Scheduled
 6 October 2025 | Community Meeting (virtual) | Scheduled
+13-14 October 2025 | CDISC US Interchange (Nashville, USA) | Scheduled
 23 October  2025 | PHUSE SDE Copenhagen, Denmark | Planned
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Scheduled
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
@@ -44,6 +45,12 @@ You can register for the event [here](https://www.transceleratebiopharmainc.com/
 Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
 
 You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7343204856708444160/comments/){target=_blank}.
+
+## CDISC US Interchange
+
+(13-14 October 2025 - Nashville, USA)
+
+Join us at the CDISC US Interchange in Nashville, USA, where we will be presenting in the 360i track on "CDISC 360i & OpenStudyBuilder: From Vision to Implementation" by Mikkel Traun. We will also be available for discussions, questions and demonstrations at the COSA booth.
 
 ## PHUSE SDE Copenhagen
 
