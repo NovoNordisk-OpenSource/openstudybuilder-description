@@ -4,8 +4,6 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-19 August 2025 | Community Meeting (virtual) | Scheduled
-8 September 2025 | Community Meeting (virtual) | Scheduled
 23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland) | Scheduled
 6 October 2025 | Community Meeting (virtual) | Scheduled
 13-14 October 2025 | CDISC US Interchange (Nashville, USA) | Scheduled
@@ -17,22 +15,6 @@ Date | Event | Status
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
-
-## Community Meeting (virtual)
-
-(19 August 2025, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7343203840290172928/comments/){target=_blank}.
-
-## Community Meeting (virtual)
-
-(8 September 2025, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7343204364292960257/comments/){target=_blank}.
 
 ## DDF: Mission Possible
 
