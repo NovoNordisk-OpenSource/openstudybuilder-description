@@ -8,8 +8,9 @@ On this page you find a structured list of resources - not complete but containi
 
 Title | Description
 -- | --
-[OpenStudyBuilder Flyer](./presentations/2023-02-17-Flyer.pdf){target=_blank} | Flyer (2023-02-17)
+[OpenStudyBuilder Flyer](./presentations/2025-05-08-Flyer.pdf){target=_blank} | Flyer (2025-05-08)
 [OpenStudyBuilder Poster](./presentations/2024-10-10-OSB-Poster-SDE-Copenhagen.pdf){target=_blank} | Poster (2024-10-10)
+[OpenStudyBuilder USDM Poster](./presentations/2025-09-OSB-USDM-Poster.pdf){target=_blank} | USDM Poster (2025-09-23)
 [OpenStudyBuilder USDM Poster](./presentations/2024-10-10-OSB-USDM-Poster.pdf){target=_blank} | USDM Poster (2024-10-10)
 [Community Meeting Overview](./presentations/2025-09-08-CommunityMeeting.pdf){target=_blank} | Overview & **Links** (2025-09-08)
 [Protocol to Data Collection](./presentations/2025-03-04-ACDM-Protocol-to-Data-Collection.pdf){target=_blank} | Digitalizing the study setup process from Protocol to Data Collection Specifications using OpenStudyBuilder (2025-03-04)
@@ -29,6 +30,7 @@ Title | Description
 
 Title | Description
 -- | --
+[OpenStudyBuilder - Quick Demonstration Overview (10:40)](https://www.youtube.com/watch?v=7mVddXicmmw){target=_blank} | OpenStudyBuilder Introduction & Demonstration<br>(2025-07-23)
 [OpenStudyBuilder - Demonstration of Application (27:59)](https://www.youtube.com/watch?v=dL5CY0BwfEs){target=_blank} | Demonstration of the Application (Functionality / User Interface)<br>(2023-05-22)
 [OpenStudyBuilder in a Nutshell (4:24)](https://www.youtube.com/watch?v=X0UQrOGfEOc){target=_blank} | High Level Overview<br>(2024-05-24)
 [EDC Integration (13:05)](https://www.youtube.com/watch?v=4-33kqSTdeY){target=_blank} | Intelligent Study Build - Oracle integration with OpenStudyBuilder<br>(2024-06-03)

@@ -2,6 +2,15 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+
+### Phase 1, Rebranding, New Releases & New Community
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7378673923606986752?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Release 0.18 & EDC Integration Strategies
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7361789245251801088?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Meetup Insights, DDF Mission Possible, Word Add-In New Home
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351202833678901248?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -41,11 +50,3 @@ The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.l
 ### Release 0.11.2, OSB Trail Controlled Terminology & Events
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7252706738343219202?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release 0.10
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7239986316774420480?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Roadmap
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7224003065664712706?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

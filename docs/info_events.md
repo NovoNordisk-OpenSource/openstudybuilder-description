@@ -4,7 +4,6 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland) | Scheduled
 6 October 2025 | Community Meeting (virtual) | Scheduled
 13-14 October 2025 | CDISC US Interchange (Nashville, USA) | Scheduled
 14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain) | Scheduled
@@ -15,14 +14,6 @@ Date | Event | Status
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
-
-## DDF: Mission Possible
-
-(23-24 September 2025 - East Hanover, New Jersey & Basel, Switzerland)
-
-Following the success of last year's DDF in Action Day, this year's event, DDF: Mission Possible - Assess, Plan & Implement Protocol Digitalization Solutions, will take place on September 23-24. It will be co-hosted by Novartis in East Hanover, New Jersey, and Roche in Basel, Switzerland. Stay tuned for more details! We join this event and present our latest updates related to DDF on OpenStudyBuilder.
-
-You can register for the event [here](https://www.transceleratebiopharmainc.com/events/ddf-mission-possible-practical-approaches-for-protocol-digitalization/){target=_blank}.
 
 ## Community Meeting (virtual)
 
