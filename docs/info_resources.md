@@ -54,3 +54,6 @@ Content | Description
 [Paper](./presentations/2024-11-12-PHUSEConnect-VeevaSDS-PAP_SI04.pdf){target=_blank} | Mapping a Veeva SDS specification to ODM-XML (2024-11-12)
 [Paper](./presentations/2023-11-06-PHUSE_Paper_TT07.pdf){target=_blank} | Open-Source Protocol Automation with the OpenStudyBuilder (2023-11-06)
 [Paper](./presentations/2023-11-06-PHUSE_Paper_SI03.pdf){target=_blank} | Open-Source MDR & SDR - Managing your standards with the OpenStudyBuilder (2023-11-06)
+[Brand](./branding/Brand-Identity-Guidelines-OpenStudyBuilder.pdf){target=_blank} | Brand identity Style guide (2025-05)
+[Logos](https://github.com/NovoNordisk-OpenSource/openstudybuilder-description/tree/main/docs/branding/logos){target=_blank} | OpenStudyBuilder Logos along branding [license](https://github.com/NovoNordisk-OpenSource/openstudybuilder-description/tree/main/docs/branding/BRANDING_LICENSE.md){target=_blank}
+
