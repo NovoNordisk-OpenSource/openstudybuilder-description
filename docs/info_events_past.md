@@ -4,6 +4,9 @@
 
 Date | Event 
 -- | --
+14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain)
+13-14 October 2025 | CDISC US Interchange (Nashville, USA)
+6 October 2025 | Community Meeting (virtual)
 23-24 September 2025 | DDF: Mission Possible (East Hanover, New Jersey & Basel, Switzerland)
 8 September 2025 | Community Meeting (virtual)
 19 August 2025 | Community Meeting (virtual)
@@ -26,6 +29,32 @@ Date | Event
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
 
+### (external) SCOPE Europe
+
+(14-15 October 2025 - Barcelona, Spain)
+
+One of our integrators will present the OpenStudyBuilder and their integrations at the SCOPE Europe event in Barcelona, Spain.
+
+**From Study Design to ICH M11 Protocol: Seamless Digital Transformation through CDISC USDM and Structured Component Authoring Integration**
+
+(by Murali Menon)
+
+This presentation demonstrates an end-to-end digital workflow integrating Open Study Builder (OSB) with Docuvera to automatically generate ICH M11-compliant protocols from CDISC USDM-structured study designs. Our implementation leverages Digital Data Flow (DDF) principles to establish live links between study design components and protocol authoring systems, enabling real-time synchronization and reusable content management. The integration supports component-based authoring with automated FHIR export capabilities, transforming traditional document-centric processes into data-driven workflows. We demonstrate the complete journey from structured study design creation in OSB through automated protocol generation, review/approval workflows, and regulatory-compliant FHIR output, showcasing how USDM standards enable seamless clinical trial digitization.
+
+The presentation slides are available [here](./presentations/2025-10-15-SCOPE-Docuvera.pdf){target=_blank}.
+
+### CDISC US Interchange
+
+(13-14 October 2025 - Nashville, USA)
+
+We joined the CDISC US Interchange in Nashville, USA. Rhona presented in the 360i track on "CDISC 360i & OpenStudyBuilder: From Vision to Implementation" and used the opportunity to talk to various people about the OpenStudyBuilder.
+
+### Community Meeting (virtual)
+
+(6 October 2025, virtual event) 
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
 ### DDF: Mission Possible
 
 (23-24 September 2025 - East Hanover, New Jersey & Basel, Switzerland)
@@ -33,8 +62,6 @@ Date | Event
 Following the success of last year's DDF in Action Day, this year's event, DDF: Mission Possible - Assess, Plan & Implement Protocol Digitalization Solutions, took place on September 23-24. It was co-hosted by Novartis in East Hanover, New Jersey, and Roche in Basel, Switzerland. We presented the status of DDF on our poster and could provide an update on our user adoption story. The event was very successful, we see more and more companies to adopt to USDM and were able to exchange ideas, experiences and challenges. 
 
 The poster can be accessed [here](./presentations/2025-09-OSB-USDM-Poster.pdf){target=_blank}.
-
-You can register for the event [here](https://www.transceleratebiopharmainc.com/events/ddf-mission-possible-practical-approaches-for-protocol-digitalization/){target=_blank}.
 
 ### Community Meeting (virtual)
 

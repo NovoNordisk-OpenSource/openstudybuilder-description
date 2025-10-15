@@ -73,9 +73,9 @@ Marius Conjeaud has also provided a load test setup for the OpenStudyBuilder. Pe
 
 Of course the environment has to be considered. When working in a cloud when the data has to be transferred over the internet, the performance will be different. These tests had been performed on a local machine.
 
-### USDM Importer (PoC)
+### OSB-USDM-uploader (PoC)
 
-A proof of concept for importing USDM into OpenStudyBuilder has been developed by Phoebe. This solution consists of a Python script and will be available around mid of July as open-source solution. The current status and issues has been presented in one of our OSB Hub sessions for system engineers. You can checkout the recording below.
+A proof of concept for importing USDM into OpenStudyBuilder has been developed by Phoebe. This solution consists of a Python script and i available as open-source solution in [GitHub](https://github.com/HTP42-OpenStudyBuilder/OSB-usdm-uploader){target=_blank}. The current status and issues has been presented in one of our OSB Hub sessions for system engineers. You can checkout the recording below.
 
 <iframe
   title="USDM Importer (PoC)"
@@ -86,3 +86,7 @@ A proof of concept for importing USDM into OpenStudyBuilder has been developed b
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 ></iframe>
+
+### USDM-OSB-uploader (PoC)
+
+A second USDM Importer has been developed by Hosbect Chekresh. This solution is a command line python tool and available in GitHub [here](https://github.com/AI-LENS/usdm-osb-uploader){target=_blank}.

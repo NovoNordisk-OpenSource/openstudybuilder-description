@@ -4,9 +4,6 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-6 October 2025 | Community Meeting (virtual) | Scheduled
-13-14 October 2025 | CDISC US Interchange (Nashville, USA) | Scheduled
-14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain) | Scheduled
 23 October  2025 | PHUSE SDE Copenhagen, Denmark | Planned
 3 November 2025 | Community Meeting (virtual) | Scheduled
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Scheduled
@@ -14,34 +11,6 @@ Date | Event | Status
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
-
-## Community Meeting (virtual)
-
-(6 October 2025, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7343204856708444160/comments/){target=_blank}.
-
-## CDISC US Interchange
-
-(13-14 October 2025 - Nashville, USA)
-
-Join us at the CDISC US Interchange in Nashville, USA, where we will be presenting in the 360i track on "CDISC 360i & OpenStudyBuilder: From Vision to Implementation" by Rhona O'Donnall. 
-
-## (external) SCOPE Europe
-
-(14-15 October 2025 - Barcelona, Spain)
-
-One of our integrators will present the OpenStudyBuilder and their integrations at the SCOPE Europe event in Barcelona, Spain.
-
-**From Study Design to ICH M11 Protocol: Seamless Digital Transformation through CDISC USDM and Structured Component Authoring Integration**
-
-(by Murali Menon)
-
-This presentation demonstrates an end-to-end digital workflow integrating Open Study Builder (OSB) with Docuvera to automatically generate ICH M11-compliant protocols from CDISC USDM-structured study designs. Our implementation leverages Digital Data Flow (DDF) principles to establish live links between study design components and protocol authoring systems, enabling real-time synchronization and reusable content management. The integration supports component-based authoring with automated FHIR export capabilities, transforming traditional document-centric processes into data-driven workflows. We demonstrate the complete journey from structured study design creation in OSB through automated protocol generation, review/approval workflows, and regulatory-compliant FHIR output, showcasing how USDM standards enable seamless clinical trial digitization.
-
-You can register for the event [here](https://register.cambridgeinnovationinstitute.com/reg/scopeeur?_gl=1*1kgrdi2*corpRollup_au*NzkwODIwNTguMTc1MzEyNTMxOQ..*corpRollup_ga*ODEwMjk4MDAyLjE3NTMxMjUzMTk.*corpRollup_ga_2EH9C0L8YB*czE3NTc5NTk2MjUkbzIkZzEkdDE3NTc5NTk2ODAkajUkbDAkaDA.*_gcl_au*NTE1NTg3NjE3LjE3NTMxMjUzMTk.*_ga*ODEwMjk4MDAyLjE3NTMxMjUzMTk.*_ga_G70WM7DXYM*czE3NTc5NTk2MjUkbzIkZzEkdDE3NTc5NTk5MDgkajUyJGwwJGgw){target=_blank}.
 
 ## PHUSE SDE Copenhagen
 
