@@ -5,6 +5,7 @@ Overview
 Date | Event | Status 
 -- | -- | --
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Scheduled
+26 November 2025 | (external) Webinar - Structured Content Management | Scheduled
 8 December 2025 | Community Meeting (virtual) | Planned
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
@@ -21,6 +22,18 @@ Registration and additional information available [here](https://www.phuse-event
 You can already preview the presentation slides [here](./presentations/2025-11-18-PHUSE-EU-2025-CDISC-360i-OSB.pdf){target=_blank}.
 
 You can already preview the poster [here](./presentations/2025-11-18-PosterPhusePP34.pdf){target=_blank}.
+
+## (external) Webinar - Structured Content Management
+
+(26 November 2025, virtual event, 16:00-17:00 CET)
+
+**Accelerating Study Startup with OpenStudyBuilder and Structured Content Management**
+
+(by Philip Dujardin and Guido Radack, Inconsult and Katja Glass, Consultant)
+
+This webinar showcases the OpenStudyBuilder - OSB and how it can be integrated in the clinical solution landscape to streamline protocol creation according to ICH M11 template for a study protocol creation. We show how to improve cross-functional collaboration, and enable true content reuse by metadata driven approaches. With expert insights and real-world considerations, we will explore both the strategic vision and practical implementation opportunities.
+
+Additional event information and registration is available [here](https://events.teams.microsoft.com/event/55bd9720-da24-4e93-a4bb-7df9515bcf9e@ff3d7395-ff33-4b5d-8f9c-e89b2a5804d6){target=_blank}.
 
 ## Community Meeting (virtual)
 
