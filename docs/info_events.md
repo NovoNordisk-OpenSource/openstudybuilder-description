@@ -4,27 +4,11 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-23 October  2025 | PHUSE SDE Copenhagen, Denmark | Planned
-3 November 2025 | Community Meeting (virtual) | Scheduled
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Scheduled
 8 December 2025 | Community Meeting (virtual) | Planned
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
-
-## PHUSE SDE Copenhagen
-
-(23 October  2025 - Copenhagen, Denmark)
-
-We will very likely be available at the PHUSE Single Day Event.
-
-## Community Meeting (virtual)
-
-(3 November 2025, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7374005410669805568/){target=_blank}.
 
 ## PHUSE EU Connect
 
@@ -34,11 +18,13 @@ At PHUSE EU Connect (16-19 November 2025, Hamburg), we'll be on site sharing our
 
 Registration and additional information available [here](https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=47495&eventID=74&traceRedir=4){target=_blank}.
 
+You can already preview the presentation slides [here](./presentations/2025-11-18-PHUSE-EU-2025-CDISC-360i-OSB.pdf){target=_blank}.
+
+You can already preview the poster [here](./presentations/2025-11-18-PosterPhusePP34.pdf){target=_blank}.
+
 ## Community Meeting (virtual)
 
 (8 December 2025, virtual event)
-
-(3 November 2025, virtual event)
 
 Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
 

@@ -4,6 +4,7 @@
 
 Date | Event 
 -- | --
+3 November 2025 | Community Meeting (virtual) 
 14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain)
 13-14 October 2025 | CDISC US Interchange (Nashville, USA)
 6 October 2025 | Community Meeting (virtual)
@@ -29,6 +30,12 @@ Date | Event
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
 
+### Community Meeting (virtual)
+
+(3 November 2025, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
 ### (external) SCOPE Europe
 
 (14-15 October 2025 - Barcelona, Spain)
@@ -48,6 +55,8 @@ The presentation slides are available [here](./presentations/2025-10-15-SCOPE-Do
 (13-14 October 2025 - Nashville, USA)
 
 We joined the CDISC US Interchange in Nashville, USA. Rhona presented in the 360i track on "CDISC 360i & OpenStudyBuilder: From Vision to Implementation" and used the opportunity to talk to various people about the OpenStudyBuilder.
+
+The presentation slides are available [here](./presentations/2025-10-14-Session5A-360iII-OSB-CDISC-US-2025.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
