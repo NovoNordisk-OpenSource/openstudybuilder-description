@@ -6,6 +6,7 @@ Date | Event | Status
 -- | -- | --
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany | Scheduled
 26 November 2025 | (external) Webinar - Structured Content Management | Scheduled
+2 December 2025 | (external) Webinar - Structured Authoring | Scheduled
 8 December 2025 | Community Meeting (virtual) | Planned
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 15-17 March 2026 | ADCM - Berlin, Germany | Planned
@@ -33,7 +34,19 @@ You can already preview the poster [here](./presentations/2025-11-18-PosterPhuse
 
 This webinar showcases the OpenStudyBuilder - OSB and how it can be integrated in the clinical solution landscape to streamline protocol creation according to ICH M11 template for a study protocol creation. We show how to improve cross-functional collaboration, and enable true content reuse by metadata driven approaches. With expert insights and real-world considerations, we will explore both the strategic vision and practical implementation opportunities.
 
-Additional event information and registration is available [here](https://events.teams.microsoft.com/event/55bd9720-da24-4e93-a4bb-7df9515bcf9e@ff3d7395-ff33-4b5d-8f9c-e89b2a5804d6){target=_blank}.
+Registration is available [here](https://events.teams.microsoft.com/event/55bd9720-da24-4e93-a4bb-7df9515bcf9e@ff3d7395-ff33-4b5d-8f9c-e89b2a5804d6){target=_blank}.
+
+## (external) Webinar - Structured Authoring
+
+(2 December 2025, virtual event, 15:00-16:00 CET)
+
+**Breaking the Protocol Bottleneck: Digital Transformation with CDISC USDM and Structured Authoring**
+
+(by Murali Menon, Docuvera and Katja Glass, Consultant)
+
+linical trials are often slowed by manual, document-based processes, redundant authoring, and fragmented data systems, leading to long protocol approval cycles and compliance risks. The Open Study Builder (OSB)–Docuvera integration addresses these challenges by transforming protocol creation from a document-centric to a data-centric workflow. Leveraging CDISC USDM and TransCelerate Digital Data Flow (DDF) standards, the solution enables real-time data exchange, automated ICH M11-compliant protocol generation, and FHIR export for regulatory use. This seamless, structured approach accelerates study startup, improves consistency, and reduces operational burden across the clinical trial lifecycle.
+
+Registration is available [here](https://connect.diaglobal.org/25208-docuvera-webinar){target=_blank}.
 
 ## Community Meeting (virtual)
 

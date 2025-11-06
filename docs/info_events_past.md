@@ -44,7 +44,7 @@ One of our integrators will present the OpenStudyBuilder and their integrations 
 
 **From Study Design to ICH M11 Protocol: Seamless Digital Transformation through CDISC USDM and Structured Component Authoring Integration**
 
-(by Murali Menon)
+(by Murali Menon, DocuVera)
 
 This presentation demonstrates an end-to-end digital workflow integrating Open Study Builder (OSB) with Docuvera to automatically generate ICH M11-compliant protocols from CDISC USDM-structured study designs. Our implementation leverages Digital Data Flow (DDF) principles to establish live links between study design components and protocol authoring systems, enabling real-time synchronization and reusable content management. The integration supports component-based authoring with automated FHIR export capabilities, transforming traditional document-centric processes into data-driven workflows. We demonstrate the complete journey from structured study design creation in OSB through automated protocol generation, review/approval workflows, and regulatory-compliant FHIR output, showcasing how USDM standards enable seamless clinical trial digitization.
 
