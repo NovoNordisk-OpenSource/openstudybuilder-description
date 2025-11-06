@@ -4,6 +4,7 @@
 
 Date | Event 
 -- | --
+3 November 2025 | Community Meeting (virtual) 
 14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain)
 13-14 October 2025 | CDISC US Interchange (Nashville, USA)
 6 October 2025 | Community Meeting (virtual)
@@ -29,6 +30,12 @@ Date | Event
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
 
+### Community Meeting (virtual)
+
+(3 November 2025, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
 ### (external) SCOPE Europe
 
 (14-15 October 2025 - Barcelona, Spain)
@@ -37,7 +44,7 @@ One of our integrators will present the OpenStudyBuilder and their integrations 
 
 **From Study Design to ICH M11 Protocol: Seamless Digital Transformation through CDISC USDM and Structured Component Authoring Integration**
 
-(by Murali Menon)
+(by Murali Menon, DocuVera)
 
 This presentation demonstrates an end-to-end digital workflow integrating Open Study Builder (OSB) with Docuvera to automatically generate ICH M11-compliant protocols from CDISC USDM-structured study designs. Our implementation leverages Digital Data Flow (DDF) principles to establish live links between study design components and protocol authoring systems, enabling real-time synchronization and reusable content management. The integration supports component-based authoring with automated FHIR export capabilities, transforming traditional document-centric processes into data-driven workflows. We demonstrate the complete journey from structured study design creation in OSB through automated protocol generation, review/approval workflows, and regulatory-compliant FHIR output, showcasing how USDM standards enable seamless clinical trial digitization.
 
@@ -48,6 +55,8 @@ The presentation slides are available [here](./presentations/2025-10-15-SCOPE-Do
 (13-14 October 2025 - Nashville, USA)
 
 We joined the CDISC US Interchange in Nashville, USA. Rhona presented in the 360i track on "CDISC 360i & OpenStudyBuilder: From Vision to Implementation" and used the opportunity to talk to various people about the OpenStudyBuilder.
+
+The presentation slides are available [here](./presentations/2025-10-14-Session5A-360iII-OSB-CDISC-US-2025.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
