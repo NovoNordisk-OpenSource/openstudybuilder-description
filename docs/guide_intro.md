@@ -2,7 +2,7 @@
 
 ## Release of OpenStudyBuilder
 
-The OpenStudyBuilder has been released on 24.10.2022 and is available as open source in [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution){target=_blank}! You can check out this metadata repository together with the graph data containing a biomedical concept by installing it locally or you can request access to the sandbox system to play around with example data even without installing anything!  
+The OpenStudyBuilder has been released on 24.10.2022 and is available as open source in [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution){target=_blank}! You can check out this metadata and study definition repository locally, install it on a server or cloud or you can request access to the public available sandbox to play around with example data even without installing anything!  
 
 Thanks to Novo Nordisk for sharing this as open source to enable the next level of collaboration! 
 
@@ -33,7 +33,19 @@ This project homepage contains core information as well as information about upc
 
 ## Demonstration Video
 
-The following video shows the demonstration of the OpenStudyBuilder Application in Version 0.4.
+The following video shows a quick demonstration in Version 0.18.
+
+<iframe
+  title="OpenStudyBuilder - Demonstration of Application"
+  width=720
+  height=405
+  src="https://www.youtube-nocookie.com/embed/7mVddXicmmw"
+  frameBorder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
+A more detailed desmonstration in Version 0.4 is available as well.
 
 <iframe
   title="OpenStudyBuilder - Demonstration of Application"

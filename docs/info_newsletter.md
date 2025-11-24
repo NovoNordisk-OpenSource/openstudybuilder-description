@@ -2,6 +2,9 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### Release 2.0, Recap DDF Mission Possible, Upcoming PHUSE EU Connect
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7391785210633277440?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### Phase 1, Rebranding, New Releases & New Community
 
