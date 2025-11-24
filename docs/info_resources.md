@@ -19,6 +19,7 @@ Title | Description
 [OpenStudyBuilder as MDR](./presentations/2024-03-11-OSB-as-MDR-Collaboration.pdf){target=_blank} | OpenStudyBuilder as Metadata Repository (**MDR**) Collaboration  kick-off <br/>(2024-03-11)
 [Veeva SDS - EDC Integrations](./presentations/2024-11-12-PHUSEConnect-VeevaSDS-PRE_SI04.pdf){target=_blank} | Mapping a **Veeva SDS** specification to ODM-XML<br/>(2024-04-23)
 [OpenStudyBuilder for EDC Integrations](./presentations/2024-04-23-Workshop_OSB_EDC_Integration.pdf){target=_blank} | OpenStudyBuilder for standard **CRF** design and **EDC** integrations <br/>(2024-04-23)
+[DDF Case Study](./presentations/2024-10-DDF-Case%20Study-NovoNordisk.pdf){target=_blank} | Adoption of **DDF** @Novo Nordisk<br/>(2024-10)
 [OpenStudyBuilder to DDF and USDM](./presentations/2024-04-25-OpenStudyBuilder%20to%20DDF%20and%20USDM.pdf){target=_blank} | OpenStudyBuilder in the context of **DDF** and the **USDM** format<br/>(2024-04-25)
 [Concept based standards in OpenStudyBuilder supporting structured protocol content and submission deliverables](./presentations/2022-10-27-OpenStudyBuilderWithDemo-CDISC-US-Interchange.pdf){target=_blank} | **Introduction** with Demo Slides (2022-10-27)
 [OpenStudyBuilder - Open source MDR](./presentations/2022-10-13-OpenStudyBuilder-PHUSE-SDE-Copenhagen.pdf){target=_blank} | **Introduction** including focus areas, next steps, how to get started & getting along <br/>(2022-10-13)

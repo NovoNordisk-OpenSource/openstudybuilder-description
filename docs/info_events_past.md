@@ -4,6 +4,7 @@
 
 Date | Event 
 -- | --
+16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany
 3 November 2025 | Community Meeting (virtual) 
 14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain)
 13-14 October 2025 | CDISC US Interchange (Nashville, USA)
@@ -29,6 +30,16 @@ Date | Event
 10 February 2025 | Community Meeting (virtual) 
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
+
+## PHUSE EU Connect
+
+(16-19 November 2025 - Hamburg, Germany)
+
+At PHUSE EU Connect (16-19 November 2025, Hamburg), we shared OpenStudyBuilder journey on our poster, **Status and Updates of OpenStudyBuilder**, and demonstrated the end-to-end enablement of OpenStudyBuilder in the **360i** track. 
+
+The presentation slides are available [here](./presentations/2025-11-18-PHUSE-EU-2025-CDISC-360i-OSB.pdf){target=_blank}.
+
+The poster is available [here](./presentations/2025-11-18-PosterPhusePP34.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
@@ -389,7 +400,7 @@ Camilla Kehler present on **"Adoption of DDF @Novo Nordisk"**. Additionally we s
 
 The **poster** can be accessed [here](./presentations/2024-10-10-OSB-USDM-Poster.pdf){target=_blank}.
 
-The **presentation** will be available soon.
+The **presentation** slides are available [here](./presentations/2024-10-DDF-Case%20Study-NovoNordisk.pdf){target=_blank}.
 
 ### PHUSE SDE - Copenhagen, Denmark
 
@@ -581,7 +592,7 @@ In 30 minutes Mikkel and Henrik will reflect on their experience, and insights g
 
 The presentation slides are available [here](./presentations/2024-03-07-Graph-Summit-2024.pdf){target=_blank}.
 
-A recording will soon be available on the GraphSummit [homepage](https://neo4j.com/graphsummit/){target=_blank}.
+A recording will be available on the GraphSummit [homepage](https://neo4j.com/graphsummit/){target=_blank}.
 
 ### Community Meeting (virtual)
 
@@ -802,7 +813,7 @@ We will as well relate to how BC's are defined within COSMoS, DDF, d4k and other
 
 **Summary:** We could get a good overview about the different initiatives related to Biomedical Concepts, what the differences are and possible ways forward. Specifically the high participation from CDISC and other experts in the BC field enabled excellent introductions, discussions and a fantastic collaborative opportunity. Thanks for all who joined the workshop.
 
-Slides are available - an article is likely to come soon:
+Slides are available:
 
 - [Introcution Session](./presentations/2023-04-25-COSA-BC-and-OSB-Workshop.pdf){target=_blank}
 - [Breakout 1](./presentations/2023-04-25-Breakout1-Setup-BCs-in-OSB.pdf){target=_blank} - Biomedical Concepts in OpenStudyBuilder
@@ -1016,17 +1027,13 @@ Slides are available [here](./presentations/2022-05-12-AMS_Meetup_May.pdf){targe
 
 (29 April 2022, 9:00 - 13:00 CET)
 
-by many colleagues
-
-*additional resulting material coming soon*
-
 At this workshop the following has been presented ([slides](./presentations/2022-04-09-COSA-Workshop-introduction.pdf){target=_blank}):
 
 - Why you should consider to use the OpenStudyBuilder solution
 - Why we share OpenStudyBuilder as an open source project
 - Why you should consider to contribute to the OpenStudyBuilder solution
   
-Then we split into number of breakout sessions where a facilitator presented a focus area and demonstrate relevant functionalities in the OpenStudyBuilder tool and lead discussions. The group members could try these and then discuss and reflect. The goal for each breakout group had been to present a short overview of their reflections and recommendations within their focus area for everyone, where the outcome will be included soon
+Then we split into number of breakout sessions where a facilitator presented a focus area and demonstrate relevant functionalities in the OpenStudyBuilder tool and lead discussions. The group members could try these and then discuss and reflect. The goal for each breakout group had been to present a short overview of their reflections and recommendations within their focus area for everyone.
 
 The following **breakout groups** had been defined:
 
