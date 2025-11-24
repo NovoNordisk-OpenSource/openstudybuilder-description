@@ -24,6 +24,18 @@ The OpenStudyBuilder supports a **CRF library** on the standards level. CRFs can
 
 The OpenStudyBuilder team is currently working on a continuous improvement of our proof of concept for the Veeva EDC integration. The integration is based on the OpenStudyBuilder and Veeva's APIs. The goal is to enable the creation of studies in Veeva EDC based on the CRF library, metadata and study design defined in OpenStudyBuilder.
 
+The following video shows a quick overview of the Proof of Concept.
+
+<iframe
+  title="OpenStudyBuilder - Automating the Veeva EDC study setup"
+  width=720
+  height=405
+  src="https://www.youtube-nocookie.com/embed/2bIwZWaNGVQ"
+  frameBorder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
 ### High Level Overview
 
 The following high-level overview shows the main idea.
