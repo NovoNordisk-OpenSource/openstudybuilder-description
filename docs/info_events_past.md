@@ -4,6 +4,8 @@
 
 Date | Event 
 -- | --
+2 December 2025 | (external) Webinar - Structured Authoring
+26 November 2025 | (external) Webinar - Structured Content Management
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany
 3 November 2025 | Community Meeting (virtual) 
 14-15 October 2025 | (external) SCOPE Europe (Barcelona, Spain)
@@ -31,7 +33,31 @@ Date | Event
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
 
-## PHUSE EU Connect
+### (external) Webinar - Structured Authoring
+
+(2 December 2025, virtual event, 15:00-16:00 CET)
+
+**Breaking the Protocol Bottleneck: Digital Transformation with CDISC USDM and Structured Authoring**
+
+(by Murali Menon, Docuvera and Katja Glass, Consultant)
+
+linical trials are often slowed by manual, document-based processes, redundant authoring, and fragmented data systems, leading to long protocol approval cycles and compliance risks. The Open Study Builder (OSB)–Docuvera integration addresses these challenges by transforming protocol creation from a document-centric to a data-centric workflow. Leveraging CDISC USDM and TransCelerate Digital Data Flow (DDF) standards, the solution enables real-time data exchange, automated ICH M11-compliant protocol generation, and FHIR export for regulatory use. This seamless, structured approach accelerates study startup, improves consistency, and reduces operational burden across the clinical trial lifecycle.
+
+Video recording will soon be available.
+
+### (external) Webinar - Structured Content Management
+
+(26 November 2025, virtual event, 16:00-17:00 CET)
+
+**Accelerating Study Startup with OpenStudyBuilder and Structured Content Management**
+
+(by Philip Dujardin and Guido Radack, Inconsult and Katja Glass, Consultant)
+
+This webinar showcases the OpenStudyBuilder - OSB and how it can be integrated in the clinical solution landscape to streamline protocol creation according to ICH M11 template for a study protocol creation. We show how to improve cross-functional collaboration, and enable true content reuse by metadata driven approaches. With expert insights and real-world considerations, we will explore both the strategic vision and practical implementation opportunities.
+
+Video recording will soon be available.
+
+### PHUSE EU Connect
 
 (16-19 November 2025 - Hamburg, Germany)
 
