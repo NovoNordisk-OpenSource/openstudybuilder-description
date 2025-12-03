@@ -11,10 +11,6 @@ There are various ways how you can access the OpenStudyBuilder solution as a run
 
 ## Sandbox environment
 
-The OpenStudyBuilder project is progressing with a sandbox environment where people can register to play around with the open-source solution without needing to install anything. This provides an excellent opportunity to get a more detailed impression of the metadata repository (MDR). The sandbox allows for investigations on how standards can be maintained, differences identified, how studies can be created with all protocol information and much more. The API is also accessible to see the capabilities for connecting tools.  And lastly, a database browser allows for check out details of the biomedical concept. 
-
-## Sandbox environment
-
 The OpenStudyBuilder project offers a fully featured sandbox environment, allowing users to explore and experiment with the open-source solution—no installation required. This environment is ideal for gaining hands-on experience with both the metadata repository (MDR) and the study definition repository (SDR) content part.
 
 The sandbox includes a user-friendly web application, a powerful API for programmatic access, comprehensive tool documentation, and database tools such as NeoDash dashboards. Additionally, it provides a graph browser and Bloom for querying and visualizing the underlying graph data model and database content.
