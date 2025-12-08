@@ -45,6 +45,8 @@ linical trials are often slowed by manual, document-based processes, redundant a
 
 Video recording will soon be available.
 
+The presentation slides are available [here](./presentations/2025-12-02-OSB-DocuVera-Integration.pdf){target=_blank}.
+
 ### (external) Webinar - Structured Content Management
 
 (26 November 2025, virtual event, 16:00-17:00 CET)
