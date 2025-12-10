@@ -4,6 +4,7 @@
 
 Date | Event 
 -- | --
+8 December 2025 | Community Meeting (virtual)
 2 December 2025 | (external) Webinar - Structured Authoring
 26 November 2025 | (external) Webinar - Structured Content Management
 16-19 November 2025 | PHUSE EU Connect - Hamburg, Germany
@@ -32,6 +33,12 @@ Date | Event
 10 February 2025 | Community Meeting (virtual) 
 20 January 2025 | OSB-Trail-SystemEngineers Kick-Off (virtual)
 13 January 2025 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(8 December 2025, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ### (external) Webinar - Structured Authoring
 
