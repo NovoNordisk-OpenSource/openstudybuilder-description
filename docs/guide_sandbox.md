@@ -11,7 +11,7 @@ There are various ways how you can access the OpenStudyBuilder solution as a run
 
 ## Sandbox environment
 
-The OpenStudyBuilder project offers a fully featured sandbox environment, allowing users to explore and experiment with the open-source solution—no installation required. This environment is ideal for gaining hands-on experience with both the metadata repository (MDR) and the study definition repository (SDR) content part.
+The OpenStudyBuilder project offers a fully featured sandbox environment, allowing users to explore and experiment with the open-source solution no installation required. This environment is ideal for gaining hands-on experience with both the metadata repository (MDR) and the study definition repository (SDR) content part.
 
 The sandbox includes a user-friendly web application, a powerful API for programmatic access, comprehensive tool documentation, and database tools such as NeoDash dashboards. Additionally, it provides a graph browser and Bloom for querying and visualizing the underlying graph data model and database content.
 
@@ -122,10 +122,6 @@ API | [http://localhost:5005/api/docs](http://localhost:5005/api/docs){target=_b
 Consumer API | [http://localhost:5005/consumer-api/docs](http://localhost:5005/consumer-api/docs){target=_blank} | API documentation and running API calls for consumer API
 Dashboards | [http://localhost:5005/neodash/](http://localhost:5005/neodash/){target=_blank} | Browser available NeoDash dashboards
 DB Browser | [http://localhost:5001/browser/](http://localhost:5001/browser/){target=_blank} | Browser for underlying database
-
-### Installation Experiences
-
-If you want to follow along installation experiences on a Windows system, you can checkout the documentation on the separate [OpenStudyBuilder-Scripts](https://github.com/KatjaGlassConsulting/OpenStudyBuilderScripts/blob/main/doc/InstallationExperiences.md){target=_blank} repository from a user.
 
 ## Azure Deployment
 

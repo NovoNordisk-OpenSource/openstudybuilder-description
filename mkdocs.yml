@@ -17,6 +17,7 @@ nav:
       - Open Source: info_open_source.md
       - Contribution: info_contribution.md
       - Community: info_osb_hub.md
+      - DeepWiki: info_deepwiki.md
       - DDF Vision: info_ddf_vision.md
       - DDF Context: info_ddf.md
     - Environments: info_environment.md

@@ -1,4 +1,7 @@
-# Community
+# Community  {: class="guideH1"}
+
+(status 2025-12-10) 
+{: class="guideCreated"}
 
 ## OpenStudyBuilder Hub (OSB-Hub)
 
@@ -8,7 +11,7 @@ The OpenStudyBuilder Hub (OSB-Hub) is a collaboration team under the umbrella of
 - Feedback on Use-Cases: [Discussions](https://github.com/cdisc-org/osb-hub/discussions/categories/use-cases){target=_blank}
 - Checkout information: [Wiki](https://github.com/cdisc-org/osb-hub/wiki){target=_blank}
 
-![Project Logo](./img/OSB-Hub-Logo_150.png)
+![Project Logo](./img/OSB-Hub-Logo_150.png){: .imageNoBorder}
 
 ### Use-Case definitions
 
@@ -68,11 +71,19 @@ The current default setup is using the Neo4j enterprise version which requires a
 
 To switch to the community edition, a few updates are required in the docker-compose file and some other files. Marius Conjeaud has provided a fork of the OpenStudyBuilder repository with the required changes. You can access the fork [here](https://gitlab.com/mariusconjeaud/OpenStudyBuilder-Solution-ce){target=_blank}.
 
+### OpenStudyBuilder Docker Images
+
+The OpenStudyBuilder docker setup for now always required building the images locally. Marius Conjeaud has provided public docker images for the OpenStudyBuilder components which can be used instead of building them. You can find the images on Docker Hub [here](https://hub.docker.com/r/htp42/openstudybuilder){target=_blank}. Thanks to Marius and HTP42 for providing these images to the community.
+
+![Screenshot from Docker Hub containing OpenStudyBuilder Images](./img/info_osb_hub_01.png)
+
 ### OpenStudyBuilder Load Tests
 
 Marius Conjeaud has also provided a load test setup for the OpenStudyBuilder. Performance is a critical aspect. There had been tests setup in GitHub [here](https://github.com/mariusconjeaud/openstudybuilder-load-test){target=_blank}. These tests had been looking very promising, there is not much different on whether there are 20 or 200 studies on the database.
 
 Of course the environment has to be considered. When working in a cloud when the data has to be transferred over the internet, the performance will be different. These tests had been performed on a local machine.
+
+![Screenshot from Docker Hub containing OpenStudyBuilder Images](./img/info_osb_hub_02.png)
 
 ### OSB-USDM-uploader (PoC)
 
