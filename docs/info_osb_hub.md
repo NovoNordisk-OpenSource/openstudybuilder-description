@@ -73,7 +73,7 @@ To switch to the community edition, a few updates are required in the docker-com
 
 ### OpenStudyBuilder Docker Images
 
-The OpenStudyBuilder docker setup for now always required building the images locally. Marius Conjeaud has provided public docker images for the OpenStudyBuilder components which can be used instead of building them. You can find the images on Docker Hub [here](https://hub.docker.com/r/htp42/openstudybuilder){target=_blank}. Thanks to Marius and HTP42 for providing these images to the community.
+The OpenStudyBuilder docker setup for now always required building the images locally. Marius Conjeaud has provided public docker images for the OpenStudyBuilder components which can be used instead of building them. You can find the images on Docker Hub [here](https://hub.docker.com/r/htp42/openstudybuilder){target=_blank}. Thanks to Marius and HealthTechPartners 42 for providing these images to the community.
 
 ![Screenshot from Docker Hub containing OpenStudyBuilder Images](./img/info_osb_hub_01.png)
 
