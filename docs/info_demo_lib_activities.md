@@ -15,7 +15,7 @@ When creating a new activity, the group and subgroup it belongs to must be selec
 
 ## Create Activity Group
 
-Activities can be organized into two levels of groupings: "Activity Group" and "Activity Subgroup". These groupings are used in the Schedule of Activities (SoA), where study activities are assigned. On the protocol display, you can define which headings—groups, subgroups, and/or activity names are shown.
+Activities can be organized into two levels of groupings: "Activity Group" and "Activity Subgroup". These groupings are used in the Schedule of Activities (SoA), where study activities are assigned. On the protocol display, you can define which headings - groups, subgroups, and/or activity names are shown.
 
 To create a new Activity Grouping, navigate to the library (Library -> Concepts -> Activities) and open the "Activity Groups" tab. Here, you can browse existing groupings, edit or approve them, or create a new one by clicking the "+" button. 
 

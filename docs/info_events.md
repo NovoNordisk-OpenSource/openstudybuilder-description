@@ -4,22 +4,13 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-8 December 2025 | Community Meeting (virtual) | Planned
-12 January 2025 | Community Meeting (virtual) | Planned
-9 February 2025 | Community Meeting (virtual) | Planned
-9 March 2025 | Community Meeting (virtual) | Planned
+12 January 2026 | Community Meeting (virtual) | Planned
+9 February 2026 | Community Meeting (virtual) | Planned
+9 March 2026 | Community Meeting (virtual) | Planned
 29 Apr 2026 | PHUSE SDE - Frankfurt, Germany | Planned
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Planned
-
-## Community Meeting (virtual)
-
-(8 December 2025, virtual event)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7374006530507051008/){target=_blank}.
 
 ## Community Meeting (virtual)
 
