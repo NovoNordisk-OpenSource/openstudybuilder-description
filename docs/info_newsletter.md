@@ -2,6 +2,10 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### First Contribution, Release 2.2, Hidden Treasures, Deployments, DeepWiki
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7407719123947831296?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Recap PHUSE EU Connect, Release 2.1
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7401602195659313152?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
