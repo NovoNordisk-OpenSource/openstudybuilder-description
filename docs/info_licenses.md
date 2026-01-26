@@ -63,6 +63,8 @@ The intention is that improvements to OpenStudyBuilder core components remain pa
 
 The GPLv3 requires you to share modifications only if you distribute the modified software to others outside your organization. If you use a modified version strictly internally within your organization and do not distribute it externally, you are not required to publish or share your modifications. Furthermore, GPLv3 obligations apply to the software source code only. They do not apply to the study content, metadata, or other data created with OpenStudyBuilder.
 
+---
+
 ## Video overview
 
 This video explains what licenses are, why they matter, which licenses apply to OpenStudyBuilder, and what GPLv3 means in the context of OpenStudyBuilder.
@@ -77,5 +79,19 @@ This video explains what licenses are, why they matter, which licenses apply to 
   allowFullScreen
 ></iframe>
 
+---
+
+## Legal notice and third-party prerequisites
+
+This page is provided for **informational purposes only** and does **not constitute legal advice**.  
+For project-specific or organization-specific questions, please consult your legal or compliance experts.
+
+Please note that the licenses described on this page apply to **OpenStudyBuilder components only**.
+
+OpenStudyBuilder uses **Neo4j** as an underlying database technology.  
+The Neo4j software itself is **not part of OpenStudyBuilder** and is licensed separately under its own terms and conditions.
+
+Using OpenStudyBuilder therefore requires a **compatible Neo4j license** as a prerequisite.  
+It is the responsibility of each organization to ensure compliance with the applicable Neo4j licensing model for their intended usage.
 
 
