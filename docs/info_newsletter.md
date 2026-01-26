@@ -2,6 +2,10 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### R&eacute;sum&eacute;, Roadmap and Version 2.3
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7419759535999004672?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### First Contribution, Release 2.2, Hidden Treasures, Deployments, DeepWiki
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7407719123947831296?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

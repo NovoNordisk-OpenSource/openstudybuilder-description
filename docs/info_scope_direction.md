@@ -1,4 +1,7 @@
-# Scope & Direction of the Project
+# Scope & Direction of the Project {: class="guideH1"}
+
+(updated 2026-01-26) 
+{: class="guideCreated"}
 
 ## Our Road Ahead - The Vision
 
@@ -22,11 +25,30 @@ The business processes supported by this vision span the full trial road - from 
 
 As all of these processes depend on standards, a crucial element on the consumption side is standards utilization. This is what enables interoperability between tools and ensures consistency throughout the trial setup and execution.
 
+## Key Achievements at Novo Nordisk in 2025
+
+Several milestones made 2025 a transformational year for OpenStudyBuilder in Novo Nordisk:
+
+- OpenStudyBuilder is recognized as one of the prioritized digital products across R&amp;D.
+- The first code contribution from an external pharmaceutical company (many thanks to Boehringer Ingelheim) was successfully accomplished, demonstrating the strong and growing industry interest in OpenStudyBuilder as an open-source solution.
+- Schedules of Activities are now specified for all kind of studies in OpenStudyBuilder.
+- CRF standards, including SDTM annotations, are available within OpenStudyBuilder.
+- Working prototype to synchronize OpenStudyBuilder and EDC utilizing the available EDC API.
+- A laboratory metadata report based on OSB metadata has been introduced to support the creation of laboratory data specifications.
+- We added USDM and M11 pages, now available for every study. This enhancement positions OpenStudyBuilder to support emerging industry standards and future regulatory requirements. 
+- Support for complexity score calculation has been implemented.
+- Multiple system enhancements driven by end-user feedback were delivered.
+- The internal name was changed from "StudyBuilder" to "OpenStudyBuilder" to emphasize the open-source nature of the solution and its growing industry relevance.
+- The system performance has been improved significantly.
+- OpenStudyBuilder continues to grow, with close to 300 registered users at Novo Nordisk.
+
 ## Where Do We Stand Now
 
-OpenStudyBuilder is already delivering tangible value in the area of protocol authoring. At Novo Nordisk, it is used in production to define structured protocol elements - most notably the Schedule of Activities (SoA) - and automatically populate them into the corresponding Word-based protocol template. 
+OpenStudyBuilder is already delivering tangible value in the area of protocol authoring. At Novo Nordisk, it is used in production to define structured protocol elements - most notably the Schedule of Activities (SoA) - and automatically populate them into the corresponding Word-based protocol template for all studies.
 
-Initially, Phase 1 studies were out of scope due to the complexity of their SoA designs. However, with the recent implementation of functionality supporting study sub-parts and multiple SoAs, we are now preparing for the onboarding of Phase 1 protocols as well.
+Looking back at 2025, OpenStudyBuilder has significantly matured structured protocol content management. We established and expanded core capabilities around Schedules of Activities. Furthermore, we successfully prepared and loaded CRF standards into the solution. These foundations lay the groundwork for the next major milestone on our journey: EDC automation.
+
+We have also seen that the contribution model is working. But to truly enable broad industry adoption and sustainable collaboration, we must go further. Important work is already in progress and there will be much more to share throughout 2026. We strongly believe that 2026 will become the year of industry adoption for OpenStudyBuilder.
 
 ![OpenStudyBuilder - Current live business processes](./img/info_scope_direction_2.png)
 {: class="imageParagraph"}
@@ -34,29 +56,63 @@ Initially, Phase 1 studies were out of scope due to the complexity of their SoA 
 Figure 2: Current live business processes
 {: class="imageDescription"}
 
-In parallel with supporting protocol authoring, the project has placed strong emphasis on enabling standards utilization for downstream systems and laying the groundwork for data collection automation - two areas that are set to become key focal points in the near future.
+Our solution is prepared to support additional business processes beyond protocol authoring. We are expecting the Standards Utilization and Data Collection Enablement be go into production in 2026.
 
 ## Where to Go Next
 
-For the remainder of 2025, the project will focus on two strategic priorities: enabling standards utilization and advancing data collection automation. In parallel, we will work on supporting study planning activities, though with a more limited scope compared to the primary focus areas.
+We will continue to enhance the management and maintenance of related standards across OpenStudyBuilder. This includes controlled terminology, CRF standards, biomedical concepts expressed as activities, sponsor-specific SDTM and ADaM data models, protocol-related standards such as structured and standardized criteria and more. In parallel, we will further strengthen capabilities supporting study planning and early study design.
 
-The first priority is to make structured metadata broadly accessible to downstream systems in a version-controlled, consolidated, and harmonized manner. A key milestone here is the enablement of some missing functionalities as metadata repository, which is expected to go into production and replace a legacy tool.
+A major focus for 2026 will be the enablement of data collection - specifically advancing EDC automation. Throughout 2025, we refined CRF standards management, and at Novo Nordisk all CRF standards are now loaded into OpenStudyBuilder. Building on this foundation, 2026 is expected to bring an implemented specific EDC integration. It is important to note that Oracle ClinicalOne is already integrated in production, and additional EDC systems supporting the ODM standard are also supported.
 
-The second focus area is enhancing our support for data collection. This includes refining CRF design capabilities, strengthening the integration of Biomedical Concepts, and advancing automation features that support EDC setup.
-
-While OpenStudyBuilder is not intended to execute all of these processes directly, it will serve as a central hub that enables them. To support this role, the underlying data model, standards content, and API infrastructure must be in place and aligned.
-
-![OpenStudyBuilder - Roadmap Timeline](./img/info_scope_direction_3.png)
+Another important shift in 2026 will be an additional focus on protocol authoring support, an area that had not previously been prioritized. In addition, we plan to start addressing selected study monitoring processes toward the end of the year.
+ 
+![OpenStudyBuilder - Current OpenStudyBuilder Roadmap by Business Process](./img/info_scope_direction_3.png)
 {: class="imageParagraph"}
 
-Figure 3: Rough Roadmap Timeline
+Figure 3: Current OpenStudyBuilder Roadmap by Business Process
 {: class="imageDescription"}
 
-Looking ahead to 2026 and beyond, we plan to expand support across additional business processes. The roadmap provides a high-level view of when these areas may be addressed, with flexibility to adjust as priorities evolve. Once standards utilization is fully in place, processes such as SDTM generation, ADaM workflows, and TFL production can be supported more effectively, given their existing reliance on structured metadata. Beyond metadata utilization we focus on now, we identified additional requirements in those areas, which are scheduled for 2026 and beyond.
+Looking further ahead, a high-level roadmap for 2027 and beyond has been defined. This is based on a value framework which investigated which downstream processes could and should be supported by OpenStudyBuilder, considering prerequisites and existing workflows. The future focus areas include support for SDTM, ADaM, and TLF generation, as well as processes around clinical disclosure, study reporting, and submission.
+
+Naturally, the further we look into the future, the more likely shifts will occur. At the same time, it is important to note that some later processes can already benefit from today's OpenStudyBuilder capabilities. For example, ADaM-relevant inputs such as visit structures, endpoints, and activity flows are already available within OpenStudyBuilder and can be leveraged. Furthermore, as industry standards continue to evolve, working with analysis results metadata and even analysis concepts may increasingly come into play and shape future directions.
+
+## Next Steps for 2026
+
+Many community members have expressed interest in more detailed insights into what is planned next. The roadmap below highlights selected focus areas and concrete directions aligned with the targeted business processes. In parallel, we will continue to deliver technical and general improvements across the solution. A major cross-cutting focus for 2026 is performance, which will be systematically analysed and optimized in OpenStudyBuilder.
+ 
+![OpenStudyBuilder - OpenStudyBuilder Roadmap for 2026](./img/info_scope_direction_5.png)
+{: class="imageParagraph"}
+
+Figure 4: OpenStudyBuilder Roadmap for 2026
+{: class="imageDescription"}
+
+Standards utilization continues to define the base rules for OpenStudyBuilder. Much is already in place, and a significant additional amount of work is planned for 2026. We will further enhance the Schedule of Activities to better support data specifications, strengthen activity linkages and data provision, and connecting controlled terminology.
+
+Planned work includes investigating support for multiple sponsor data models, making controlled terminology directly available for SDTM generation, and extending activity definitions across findings, interventions, events, and remaining classes. We also plan to enhance the study design structure, further develop compounds and interventions.
+
+The existing study planning features will be extended with new export and integration capabilities to support a quality management solution. This will begin with a minimal information set and will be expanded over time to include additional planning-relevant data, enabling broader downstream usage.
+
+Another important focus for 2026 is protocol authoring. We plan to enable OpenStudyBuilder to provide structured content for several protocol sections, including:
+
+- Clinical Laboratory Tests (Appendix 2)
+- Objectives
+- Endpoints and Estimand(s)
+- Criteria
+- Interventions
+
+In addition, we plan to support the export of pharmacokinetic tables for protocol inclusion.
+
+We plan to improve the USDM, with much more information directly coming from the metadata defined in the OpenStudyBuilder. At the same time, the ICH M11 Template will be updated to the latest Final version, the [ICH CeSHarP M11 template from 19 November 2025](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_Template_2025_1119.pdf){target=_blank}.
+
+Data collection enablement remains a central pillar, with a strong focus on automated study build in EDC systems. Planned work includes further strengthening the linkage between activity instances and CRF items, enhancing CRF library management, and supporting the creation of study-specific CRFs including annotations.
+
+We expand data specification support, including dedicated specifications for laboratory data, antibodies, and pharmacokinetics, further strengthening the bridge from protocol content to operational data collection.
+
+Towards the end of the year, we are looking into a proof of concept on how to include blinding information into OpenStudyBuilder linked in a Schedule of Activities.
 
 ## The Role of CDISC 360i
 
-The CDISC 360i project will play a central role in demonstrating how the end-to-end flow can function by showcasing the integration of tools and the complete data flow, all driven by industry standards for data and exchange. It brings together experts and tool developers to execute and evaluate the flow and drive improvements, aiming to implement the full process from study planning, through data collection, to SDTM and ADaM generation and beyond, leveraging tools and practices. OpenStudyBuilder will be one of the key solutions to support and showcase this collaborative, end-to-end automation.
+The [CDISC 360i](https://www.cdisc.org/cdisc-360i){target=_blank} project will play a central role in demonstrating how the end-to-end flow can function by showcasing the integration of tools and the complete data flow, all driven by industry standards for data and exchange. It brings together experts and tool developers to execute and evaluate the flow and drive improvements, aiming to implement the full process from study planning, through data collection, to SDTM and ADaM generation and beyond, leveraging tools and practices. OpenStudyBuilder will be one of the key solutions to support and showcase this collaborative, end-to-end automation.
  
 ![OpenStudyBuilder - CDISC 360i](./img/info_scope_direction_4.png)
 {: class="imageParagraph"}
