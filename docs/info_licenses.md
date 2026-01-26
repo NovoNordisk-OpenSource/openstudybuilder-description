@@ -83,15 +83,15 @@ This video explains what licenses are, why they matter, which licenses apply to 
 
 ## Legal notice and third-party prerequisites
 
-This page is provided for **informational purposes only** and does **not constitute legal advice**.  
+This page is provided for informational purposes only and does not constitute legal advice.  
 For project-specific or organization-specific questions, please consult your legal or compliance experts.
 
-Please note that the licenses described on this page apply to **OpenStudyBuilder components only**.
+Please note that the licenses described on this page apply to OpenStudyBuilder components only.
 
-OpenStudyBuilder uses **Neo4j** as an underlying database technology.  
-The Neo4j software itself is **not part of OpenStudyBuilder** and is licensed separately under its own terms and conditions.
+OpenStudyBuilder uses Neo4j as an underlying database technology.  
+The Neo4j software itself is not part of OpenStudyBuilder and is licensed separately under its own terms and conditions.
 
-Using OpenStudyBuilder therefore requires a **compatible Neo4j license** as a prerequisite.  
+Using OpenStudyBuilder therefore requires a compatible Neo4j license as a prerequisite.  
 It is the responsibility of each organization to ensure compliance with the applicable Neo4j licensing model for their intended usage.
 
 
