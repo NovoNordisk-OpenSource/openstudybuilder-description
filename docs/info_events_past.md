@@ -1,5 +1,18 @@
 # Past Events
 
+## 2026
+
+Date | Event
+-- | --
+12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(12 January 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
+
 ## 2025
 
 Date | Event 
