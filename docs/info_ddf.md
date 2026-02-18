@@ -28,7 +28,7 @@ The first focus area demonstrated how the OpenStudyBuilder can be seen as DDF co
   title="DDF-1 OpenStudyBuilder as SDR Solution"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/SB3AFJJQj-c"
+  src="https://www.youtube.com/embed/SB3AFJJQj-c"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -42,7 +42,7 @@ The second focus shows how protocol automation could work by using content direc
   title="DDF-2 OpenStudyBuilder for Standards and Protocol"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/rUOIwqVWGII"
+  src="https://www.youtube.com/embed/rUOIwqVWGII"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -56,7 +56,7 @@ The last video shows the ODM export which enables EDC vendors to read this in to
   title="DDF-3 OpenStudyBuilder with EDC Integrations"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/gGYkZGjWprs"
+  src="https://www.youtube.com/embed/gGYkZGjWprs"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

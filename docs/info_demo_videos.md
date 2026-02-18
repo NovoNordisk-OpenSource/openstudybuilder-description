@@ -15,7 +15,7 @@ The following video provides an overview of the OpenStudyBuilder, what it is, wh
   title="OpenStudyBuilder Introduction & Demonstration"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/7mVddXicmmw"
+  src="https://www.youtube.com/embed/7mVddXicmmw"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -27,7 +27,7 @@ The following video provides an overview of the OpenStudyBuilder, what it is, wh
   title="OpenStudyBuilder - Demonstration of Application"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/dL5CY0BwfEs"
+  src="https://www.youtube.com/embed/dL5CY0BwfEs"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

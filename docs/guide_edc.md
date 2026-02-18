@@ -30,7 +30,7 @@ The following video shows a quick overview of the Proof of Concept.
   title="OpenStudyBuilder - Automating the Veeva EDC study setup"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/2bIwZWaNGVQ"
+  src="https://www.youtube.com/embed/2bIwZWaNGVQ"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -177,7 +177,7 @@ Watch this demonstration of Oracle's intelligent study building capabilities, sh
   title="Intelligent Study Build - Oracle integration with OpenStudyBuilder"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/4-33kqSTdeY"
+  src="https://www.youtube.com/embed/4-33kqSTdeY"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
