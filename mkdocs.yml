@@ -54,6 +54,10 @@ nav:
 extra_css:
   - stylesheets/general.css
 
+# Extra configuration
+extra:
+  generator: false
+
 # Repository
 repo_name: OpenStudyBuilder
 repo_url: https://github.com/NovoNordisk-OpenSource/openstudybuilder-description
