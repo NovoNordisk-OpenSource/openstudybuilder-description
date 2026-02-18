@@ -37,6 +37,7 @@ Title | Description
 [OpenStudyBuilder - Protocol review made easy (5:00)](https://www.youtube.com/watch?v=ywM3f_D9Zx0){target=_blank} | High Level Protocol Overview<br>(2026-02-15)
 [Oracle EDC Integration (13:05)](https://www.youtube.com/watch?v=4-33kqSTdeY){target=_blank} | Intelligent Study Build - Oracle integration with OpenStudyBuilder<br>(2024-06-03)
 [Veeva EDC Integration (4:28)](https://www.youtube.com/watch?v=2bIwZWaNGVQ){target=_blank} | OpenStudyBuilder - Automating the Veeva EDC study setup<br>(2025-11-24)
+[Licenses in OpenStudyBuilder (12:49)](https://www.youtube.com/watch?v=diMhCTd7pEY){target=_blank} | Explain used licenses and background around this<br>(2026-02-18)
 [Open Source Practicalities and the legal side (27:00)](https://youtu.be/6CtoH2yZb-I){target=_blank} | Open Source Licenses - Practicalities and the Legal Side<br>(2024-09-12)
 [Digital Data Flow (DDF) Solution Showcase: December 2024 (1:27:11)](https://youtu.be/66ZgsUHNfsI){target=_blank} | USDM & Digital Data Flow - OpenStudyBuilder Project as Enabler (starting at 39:20)<br>(2024-12-05)
 [OpenStudyBuilder as MDR Collaboration kick-off (47:00)](https://www.youtube.com/watch?v=omxL0hW79Rk){target=_blank} | Recorded kick-off meeting<br>(2024-03-11)
