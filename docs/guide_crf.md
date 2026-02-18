@@ -11,7 +11,7 @@ The following video provides a great overview of the CRF featues available in ve
   title="CRF support in OpenStudyBuilder"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/ubG9IJU9wVQ"
+  src="https://www.youtube.com/embed/ubG9IJU9wVQ"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

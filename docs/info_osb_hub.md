@@ -93,7 +93,7 @@ A proof of concept for importing USDM into OpenStudyBuilder has been developed b
   title="USDM Importer (PoC)"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/eJ4C1ZFtK-8"
+  src="https://www.youtube.com/embed/eJ4C1ZFtK-8"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

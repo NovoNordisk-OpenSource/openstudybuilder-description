@@ -31,7 +31,19 @@ Users | Standards Governance, Study Designer, Standards Management, Trial Manage
   title="Intelligent Study Build - Oracle integration with OpenStudyBuilder"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/X0UQrOGfEOc"
+  src="https://www.youtube.com/embed/X0UQrOGfEOc"
+  frameBorder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
+## OpenStudyBuilder in a Nutshell for Protocol Utilization
+
+<iframe
+  title="OpenStudyBuilder - Protocol review made easy"
+  width=720
+  height=400
+  src="https://www.youtube.com/embed/ywM3f_D9Zx0"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

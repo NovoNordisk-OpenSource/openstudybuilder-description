@@ -13,7 +13,7 @@ This first video showcases the benefity of a study definition repository which e
   title="Digital Data Flow (DDF) Benefits"
   width=720
   height=410
-  src="https://www.youtube-nocookie.com/embed/Otg0d2385is"
+  src="https://www.youtube.com/embed/Otg0d2385is"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -27,7 +27,7 @@ Here the advantages and automation capabilities of utilizing Biomedical Concepts
   title="Supporting Automation of Case Report Forms Using Biomedical Concepts"
   width=720
   height=410
-  src="https://www.youtube-nocookie.com/embed/0tGpj8g5gxY"
+  src="https://www.youtube.com/embed/0tGpj8g5gxY"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -41,7 +41,7 @@ The last video shows the opportunity to work with consisent and automated timepo
   title="Time Points: Supporting Protocol Digitization with Complex Timing Components"
   width=720
   height=410
-  src="https://www.youtube-nocookie.com/embed/M6XT3WrxkVc"
+  src="https://www.youtube.com/embed/M6XT3WrxkVc"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

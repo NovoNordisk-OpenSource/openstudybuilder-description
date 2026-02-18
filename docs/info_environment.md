@@ -14,6 +14,8 @@ As OpenStudyBuilder is using a Neo4j graph database, a **Neo4j database license*
 
 The OpenStudyBuilder is a modular solution consisting of several components, including a Neo4j database, a web application, and an API and more. The system can be deployed in various ways, depending on your needs and preferences. Access to the open-source code is available via [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution){target=_blank}. The repository contains [installation instructions](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/blob/main/README.md){target=_blank} using docker. Furthermore, each component has its own readme file with installation instructions and can be installed independently.
 
+We have an [OpenStudyBuilder accelerators repository](https://github.com/NovoNordisk-OpenSource/openstudybuilder-accelerators){target=_blank} where other deployment options are available. There is a simple deployment available via existing pre-compiled images. Furthermore, a complex HELM chart is available with different configurations to serve complex business needs.
+
 Option | Description
 --|--
 Local Desktop | The OpenStudyBuilder can be run on a local desktop environment

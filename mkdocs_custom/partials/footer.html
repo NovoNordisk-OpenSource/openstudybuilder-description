@@ -1,0 +1,46 @@
+{% import "partials/language.html" as lang with context %}
+
+<!-- Footer -->
+<footer class="md-footer">
+  <!-- Further information -->
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+
+      <!-- Copyright and theme information -->
+      <div class="md-footer-copyright">
+        {% if config.copyright %}
+          <div class="md-footer-copyright__highlight">
+            {{ config.copyright }}
+          </div>
+        {% endif %}
+        {% if not config.extra.generator == false %}
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        {% endif %}
+
+        <!-- Custom footer links -->
+        <p style="margin-top: 0.3rem; color: var(--md-footer-fg-color--lighter);">
+          <a href="{{ (base_url ~ '/privacy_policy/') | url }}" style="color: var(--md-footer-fg-color--lighter); text-decoration: none;">
+            Privacy Policy
+          </a>&nbsp;|&nbsp;
+          <a href="{{ (base_url ~ '/imprint/') | url }}" style="color: var(--md-footer-fg-color--lighter); text-decoration: none;">
+            Imprint
+          </a>
+        </p>
+      </div>
+
+      <!-- Social links -->
+      {% if config.extra.social %}
+        <div class="md-footer-social">
+          {% for social in config.extra.social %}          
+            <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name }}" class="md-footer-social__link">
+              {% include ".icons/" ~ social.icon ~ ".svg" %}
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</footer>

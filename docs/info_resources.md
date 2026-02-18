@@ -34,6 +34,7 @@ Title | Description
 [OpenStudyBuilder - Quick Demonstration Overview (10:40)](https://www.youtube.com/watch?v=7mVddXicmmw){target=_blank} | OpenStudyBuilder Introduction & Demonstration<br>(2025-07-23)
 [OpenStudyBuilder - Demonstration of Application (27:59)](https://www.youtube.com/watch?v=dL5CY0BwfEs){target=_blank} | Demonstration of the Application (Functionality / User Interface)<br>(2023-05-22)
 [OpenStudyBuilder in a Nutshell (4:24)](https://www.youtube.com/watch?v=X0UQrOGfEOc){target=_blank} | High Level Overview<br>(2024-05-24)
+[OpenStudyBuilder - Protocol review made easy (5:00)](https://www.youtube.com/watch?v=ywM3f_D9Zx0){target=_blank} | High Level Protocol Overview<br>(2026-02-15)
 [Oracle EDC Integration (13:05)](https://www.youtube.com/watch?v=4-33kqSTdeY){target=_blank} | Intelligent Study Build - Oracle integration with OpenStudyBuilder<br>(2024-06-03)
 [Veeva EDC Integration (4:28)](https://www.youtube.com/watch?v=2bIwZWaNGVQ){target=_blank} | OpenStudyBuilder - Automating the Veeva EDC study setup<br>(2025-11-24)
 [Open Source Practicalities and the legal side (27:00)](https://youtu.be/6CtoH2yZb-I){target=_blank} | Open Source Licenses - Practicalities and the Legal Side<br>(2024-09-12)

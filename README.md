@@ -1,200 +1,69 @@
-# OpenStudyBuilder
+# OpenStudyBuilder Documentation
 
 ![OpenStudyBuilder Tool Logo](./img/studyBuilderLogo.png)
 
-The OpenStudyBuilder is an open-source project for clinical study evaluations. This tool is a new approach for working with studies that once fully implemented will drive end-to-end consistency and more efficient processes - all the way from protocol development and CRF design - to creation of datasets, analysis, reporting, submission to health authorities and public disclosure of study information. Please checkout the **[project homepage](https://openstudybuilder.com)** for further details and events.
+[![Documentation](https://img.shields.io/badge/docs-live-brightgreen)](https://novonordisk-opensource.github.io/openstudybuilder-description/) [![MkDocs](https://img.shields.io/badge/built%20with-MkDocs-blue)](https://www.mkdocs.org/) [![Material for MkDocs](https://img.shields.io/badge/theme-Material-blue)](https://squidfunk.github.io/mkdocs-material/) [![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](https://creativecommons.org/licenses/by/4.0/)
 
-## Overview
+This repository contains the **comprehensive documentation website** for the OpenStudyBuilder project. The OpenStudyBuilder is an open-source project for clinical study evaluations that drives end-to-end consistency and more efficient processes - from protocol development and CRF design to dataset creation, analysis, reporting, submission to health authorities, and public disclosure of study information.
 
-Type | Description
--- | --
-Project Type | [COSA project (CDISC Open Source Alliance)](https://cosa.cdisc.org/)
-Owner | Novo Nordisk A/S
-Contact | OpenStudyBuilder@gmail.com<br>Regular Open Sessions planned<br>Slack: [Join OpenStudyBuilder](https://join.slack.com/t/openstudybuilder/shared_invite/zt-124fgacgj-BfgkpsWVcksybIB6kzXlMw)
-First release | Q3-2022
-Documentation | [Project Homepage](https://openstudybuilder.com)
-Repository | [https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution)
-Programming Languages | Python, Cypher (Neo4j), JavaScript (Vue.js)
-Licenses | Components with MIT and GPLv3, documentation CC-BY-4.0 
-CDISC Standards | CDISC CT, CDASH, SDTM, ADaM with ODM-XML and Define-XML
-Project Status | First productive usage in Novo Nordisk planned for Q2 2022
-Users | Standards Governance, Study Designer, Standards Management, Trial Management, Medical Writing, Data Management, Biostatistics, Medical & Science, Clinical Pharmacology
+## 🌐 Live Documentation
 
-## Problem:
+**[📖 Visit the Documentation Site](https://novonordisk-opensource.github.io/openstudybuilder-description/)**
 
-The current solutions for managing clinical data standards and study design specifications are often characterised by:
+The documentation is automatically built and deployed via GitHub Pages whenever changes are pushed to this repository.
 
-*	Resource demanding double work
-*	Parallel work done in silos resulting in discrepancies and need for rework 
-*	Many handovers between different professional groups introducing lag-time
-*	Many IT systems and tools
-*	Error-prone and resource-intensive manual steps 
-*	Expensive system maintenance and integration
-    
-Additionally, the current CDISC standards have gaps in standards metadata, limiting automation opportunities. The inherent flexibility provided by the standards supports a broad range of implementations, but that flexibility also allows for inconsistencies that makes automation scaling difficult. Furthermore, the lack of end-to-end awareness and use of the CDISC standards (e.g. for writing documents such as the protocol and clinical study reports) prohibits efficient end-to-end automation and introduces discrepancies between different presentations of the study specifications, such as e.g. discrepancies in terminology used between protocol, CRF and SDTM datasets.       
+## 📋 About OpenStudyBuilder
 
-The vision is to solve this problem by implementing standards as linked metadata with a conceptual foundation providing the additional semantics needed to support metadata driven-automation across the end-to-end clinical research data lifecycle – as illustrated by the CDISC 360 PoC project (see more at [https://www.cdisc.org/cdisc-360](https://www.cdisc.org/cdisc-360)).
+| Type | Description |
+|------|-------------|
+| **Project Type** | [COSA project (CDISC Open Source Alliance)](https://cosa.cdisc.org/) |
+| **Owner** | Novo Nordisk A/S |
+| **Contact** | OpenStudyBuilder@gmail.com<br>📅 Regular Open Sessions [planned]()<br>💬 Slack: [Join OpenStudyBuilder](https://join.slack.com/t/openstudybuilder/shared_invite/zt-124fgacgj-BfgkpsWVcksybIB6kzXlMw) |
+| **First Release** | Q3 2022 |
+| **Documentation** | [Project Homepage](https://openstudybuilder.com) |
+| **Main Repository** | [openstudybuilder-solution](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution) |
+| **Programming Languages** | Python, Cypher (Neo4j), JavaScript (Vue.js) |
+| **Licenses** | Components with MIT and GPLv3, documentation CC-BY-4.0 |
+| **CDISC Standards** | CDISC CT, CDASH, SDTM, ADaM with ODM-XML and Define-XML |
+| **Users** | Standards Governance, Study Designer, Standards Management, Trial Management, Medical Writing, Data Management, Biostatistics, Medical & Science, Clinical Pharmacology |
 
-## Solution
+## 🏗️ Repository Framework
 
-The OpenStudyBuilder is a new approach to working with studies that once fully implemented will drive end-to-end consistency and more efficient processes - all the way from protocol development and CRF design - to creation of datasets, analysis, reporting, submission to health authorities and public disclosure of study information.
+This documentation site is built using [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
-The OpenStudyBuilder contains:
+## 📝 Contributing to Documentation
 
-* Standards and templates used for study specification
-* Individual versioning of standard elements in the library 
-* Real-time team collaboration around study design by study team
-* Central storage of study design data for multiple down-stream usages (‘one source of truth’)
-* Versioning and full audit trail of study definitions
+We welcome contributions to improve the OpenStudyBuilder documentation! Here's how you can help:
 
-The OpenStudyBuilder will cover the following study specification elements:
+### Content Contributions
 
-* Study purpose (objectives, endpoints, estimands)
-* Population (disease area, indication, sex, age, etc)
-* Selection criteria (eligibility, randomisation, dosing, treatment discontinuation, etc)
-* Study type (interventional, observational, etc)
-* Study design (randomisation, blinding, arms, etc)
-* Interventions (drug, dose, route, devise, lifestyle interventions, etc.)
-* Visit schedule (naming, timing, type, windows)
-* Activities and assessments (what, how, when)
-* All the terminology and syntax standards to follow
-* Complete audit trail of what has changed over time
-    
-The OpenStudyBuilder consists of:
+1. **Fork this repository**
+2. **Create a feature branch:**
+   ```bash
+   git checkout -b feature/improve-documentation
+   ```
+3. **Make your changes** to the Markdown files in the `docs/` folder
+4. **Test locally** using `mkdocs serve`
+5. **Submit a pull request** with a clear description of your changes
 
-* The OpenStudyBuilder app (web-based user interface)
-* The new clinical Metadata Repository (central repository for all study specification data)
-* The API layer (allowing interoperability with other systems)
-* The integrations to source and target systems
-    
-The conceptual design for the OpenStudyBuilder system with connected system integrations is illustrated in the following diagram.
+### Documentation Guidelines
 
-![Diagram of conceptual design](./img/studyBuilderDesign.png)
+- Use clear, concise language
+- Include examples and code snippets where helpful
+- Follow the existing file naming conventions (`guide_*.md`, `info_*.md`)
+- Add images to `docs/img/` and reference them with relative paths
+- Update navigation in `mkdocs.yml` if adding new pages
 
-* **OpenStudyBuilder** online documentation for the OpenStudyBuilder solution including introduction, user guides, system documentation and data model documentation.
-* **OpenStudyBuilder App** Vuetify based Web application with the UI for creating the study definition specification.
-* **Protocol Metadata Word add-in** holding the Protocol Template and import features of the structured study specification metadata that relates to the protocol content.
-* **Up-stream integrations** to clinical systems like CTMS, Trial Supplies, EDC, Study Registries, etc.
-* **Down-stream integrations** to clinical data systems for SDTM, ADaM, analysis and reporting.
-* **Explore data** FAIR based study search and explore tool utilising the OpenStudyBuilder metadata with reference to systems holding study data.
-* **OpenStudyBuilder API** and Standards Library API Python based web application based on FAST API framework supporting all CRUD actions to the database, access control, versioning, workflows and data integrity rules.
-* **Integration Service** Integration to UNIX based Statistical Computing Environment (SCE) with SAS and R.
-* **Clinical MDR** Neo4j linked graph database and data model supporting the library standards, study definitions including fine granularity of versioning, audit trail, workflows and access control.
-* **Standards Management** Integrated into the OpenStudyBuilder App as the Library module managing concepts, dictionaries, code lists, syntax templates, project and TA standards.
+## 📄 Copyright & Licensing
 
+Unless otherwise stated, the content of this documentation website is licensed under the  
+**[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
 
-## Open Source Considerations
+**Copyright &copy; 2026 Novo Nordisk A/S, Danish company registration no. 24256790**
 
-This challenge cannot be solved by CDISC, any vendors or any pharma companies alone. The purpose of this project as an open-source project is therefore to engage interested stakeholders in the CDISC community to collaborate in funding, implementing, and applying this solution approach in our clinical development activities. We thereby hope the learnings and best practices can be shared in the community and be used in the coming development of the standard concepts, data models and API specifications.
+This means the content may be shared and adapted for any purpose, including commercial use, 
+provided that appropriate credit is given to Novo Nordisk A/S and a link to the license is included.
 
-The OpenStudyBuilder system component architecture including software components and packages are illustrated in the following diagram.
+---
 
-![Diagram of component design](./img/studyBuilderComponents.png)
-
-**Disclaimer:** The following licenses are planned to be used. The final release might switch to different common open-source licenses due to possible license conflicts of used packages.
-
-Core components will be shared under MIT and applications will be shared under the GPLv3 copyleft license. The Clinical MDR and OpenStudyBuilder system consist of the following components exptected to be released under the mentioned open-source licenses.
-
-System Component (License) | Technology (Git repository) | Description
--- | -- | --
-OpenStudyBuilder App (GPLv3) | Vue.js using Vuetify library (OpenStudyBuilder) | JavaScript based web application with the UI for creating the study definition specification, maintaining library standards. The OpenStudyBuilder app holds two main modules: Library and Studies
-OpenStudyBuilder Documentation Portal (CC-BY-4.0 and GPLv3/MIT) | Vuepress (documentation-portal) | Markdown based documentation portal with OpenStudyBuilder Introduction, User Guides, System Documentation, Data Models and more.
-Clinical MDR API Specification (MIT) | OpenAPI Specification / Swagger (clinical-mdr-api-spec) | Off-line documentation of the API.
-Clinical MDR API (GPLv3) | Phyton using FAST API framework (clinical-mdr-api) | Python based web application based on FAST API framework supporting all CRUD actions to the database, access control, versioning, workflows and data integrity rules.
-Clinical MDR (MIT) | Cypher (neo4j-mdr-db) | Clinical MDR logical and physical data models, database constraint definitions, procedures and functions. Needs to run on a Neo4j database.
-Graph Database (Neo4j free edition or licenced enterprise edition) | Neo4j native graph database (not part of repository, usable through neo4j.com) | A labelled property graph database engine, for more info see [Graph database concepts - Getting Started (neo4j.com)](https://neo4j.com/docs/getting-started/current/graphdb-concepts/) and [Neo4j Graph Platform - Developer Guides](https://neo4j.com/developer/)
-Standards Import (GPLv3) | Python and Cypher (mdr-standards-import) | Import programs connecting to CDISC Library, downloading files to cloud storage, reading these into staging database, and then inserting data into Clinical MDR database.
-
-## Maintenance
-
-Currently Novo Nordisk is responsible for project governance and system maintenance. As a mid-term solution a community should be built up, which can take over the maintenance to support various companies best.
-
-
-## Contributors
-
-Contributions are much appreciated. Please check out the contributor level agreement and the community homepage to figure out how to contribute best. For example, the following contributions are very welcome:
-
-* Join discussion and user group
-* Feature and bug reporting 
-* Documentation / Training / Explanation contributions
-* Coding contribution directly or through vendors
-* Additional components as standalone components or under this project’s umbrella
-
-The following companies are currently contributing to the system development:
-
-Company | Website and contact | Description of contribution
--- | -- | --
-Novo Nordisk | www.novonordisk.com <br> Henrik Lynge, Vice President, BDP MARS, GD, DRD <br> hlyl@novonordisk.com | Funding and license owner for the Clinical MDR and OpenStudyBuilder open-source project. Project leadership, product owner, system design, system development, cloud architecture, system documentation, system validation, …
-EvidentIQ  | www.evidentiq.com <br> J.David Renzelmann, Executive Director Business Development <br> david.renzelmann@evidentiq.com| Main solution vendor supporting system design, system documentation, system validation, open-source project support and services. <br/><br/><ul><li>Documentation Portal</li><li>System documentation and validation</li><li>System and Data Model integration</li><li>Study Builder App support</li><li>API Specification support</li><li>API Service extensions</li></ul>
-Neo4j | www.neo4j.com <br> Jan Aertsen - Professional Services EMEA <br> openstudybuilder@neotechnology.com | Main solution vendor supporting data modelling, system design, system development, cloud architecture and cloud manage services.<br/><br/><ul><li>Documentation Portal</li><li>API Specification </li><li>API service </li><li>Data Model </li><li>Database</li></ul>
-Microsoft | www.microsoft.com <br> Peter Lorents Sorensen, Account Delivery Executive <br> Peter.Sorensen@microsoft.com | Technical and architectural design review. 
-Katja Glass Consulting | www.glacon.eu <br>Katja Glaß<br>Consultant<br>info@glacon.eu| Open-source project consulting and support.
-
-
-## User Information
-
-Depending on the usage, different knowledge would be recommended. As a study designer you can set up a study very intuitively using the OpenStudyBuilder and the available online help.
-
-As a standards developer maintaining the concept-based data standards within the library areas more comprehensive training and use of online documentation is needed. 
-
-When additional custom standards and models should be included into the biomedical concept model, linked data knowledge as well as knowledge about the Neo4j database would be recommended. This will be related to system maintenance. 
-
-## Pre-Requisites
-
-The current implementation required CDISC library access to access CDISC standards, a Neo4j database license for the database and a set of servers where the web applications and API services can run.
-
-Access to the open-source code will be via a public accessible GitHub repository. A link to this repository will be provided when available.
-
-Novo Nordisk is using a full containerised DevOps pipeline running in Azure where everything is hosted in the cloud. We will provide guidance on how a similar dedicated cloud-based environment can be made for stakeholders looking for a similar environment.
-
-Access to a shared or dedicated cloud-based evaluation environment can be provided by Neo4j free of charge. More information on various options will be shared later.
-
-It is also possible to run the full system on a local desktop environment or on an individual cloud subscription on any of the main cloud providers. Instructions on how this can be done is made within the readme files in the Git repositories.
-
-The different components can also be used independently due to the modular implementation and API usages.
-
-
-## Sponsors
-
-The project is currently funded by Novo Nordisk. Additional pharma companies that would be interested in funding additional development, modules or connected tools are very appreciated and welcome.
-
-## Goal
-
-The vision and business benefit of the solution is to support digitalisation in clinical development by:
-
-* Enabling seamless interoperability and cross-functional end-to-end study-team collaboration.
-* Centrally storing study design data for multiple down-stream usages (‘one source of truth’).
-* Saving time and resources and minimising errors and discrepancies by enabling an end-to-end process based on shared standards, templates and study design data with the community to facilitate faster reporting and submissions.
-* Enabling insights via enhanced search and explore.
-* Implementing a sustainable model for maintenance and integrations.
-* Basing the solution on industry standards with the objective to drive this as an open-source collaboration.
-    
-**End-to-end process support**
-
-The end-to-end process is supported by the use of new concept-based data standards from protocol set-up, study specification, clinical systems setup, and preparation of submission data deliverable. The OpenStudyBuilder application supports study specification tasks for Trial Management, Clinical Reporting, Data Management and Biostatistics.
-
-**Benefits**
-
-The benefits are to manage master data and definitions for CDISC Data Standards, other industry standards and internal standards. Furthermore, the clinical system set-up and end-to-end data integrations with higher degree of automation from study outline to submission are supported.
-
-**Innovation**
-
-A modern graph database is used to link between related elements within and across standards (code lists) and studies. A transparent API-based architecture ensures simple system integration and allows for additional expandsion via dedicated applications. A simple and intuitive user interface is used which is based on a state-of-the-art modern application framework.
-
-**Modular implementation**
-
-The tool and interface design specifically supports partial components. A full-stack operational flow is not required. It is possible to use only parts of the tool set. The design allows for system replacements, for example when a component should be replaced with another technology considering the API interfaces. According to the design, additional tools and functionalities can be implemented using and providing APIs.
-
-## Communications
-
-A community homepage will be set up for up-to-date information about the project. The project is presented at various conferences. Additional presentations, webinars, discussion, workshops and training sessions are planned. Please also join the Slack channel for discussions or use the OpenStudyBuilder@gmail.com community mail.
-
-## Background
-
-This solution is based on a legacy bespoke MDR system at Novo Nordisk, and one of the goals for Novo Nordisk is to ensure that our current sponsor-defined data standards and portfolio of study definitions can be migrated into the new MDR and OpenStudyBuilder system.
-
-The new solution design for the OpenStudyBuilder is deeply inspired by the CDISC 360 PoC project as well as the TransCelerate BioPharma Digital Data Flow (DDF) project. The goal for this project initiative is therefore to continue the collaboration with these initiatives and as the data model and API standards mature to ensure this open project solution becomes a compliant solution for these standards. Furthermore, additional community involvement is appreciated.
-
-Currently the OpenStudyBuilder solution is only sponsored by Novo Nordisk. Novo Nordisk seeks additional stakeholders that would be interested in co-sponsoring this open-source project.
-
-The first minimal viable product release for PoC was started in Q3 2022. The initial business go-live for the minimal viable product is Q4 2023.
+**📧 Questions?** Contact us at OpenStudyBuilder@gmail.com or join our [Slack community](https://join.slack.com/t/openstudybuilder/shared_invite/zt-124fgacgj-BfgkpsWVcksybIB6kzXlMw)!

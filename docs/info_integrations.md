@@ -36,7 +36,7 @@ Watch this demonstration of Oracle's intelligent study building capabilities, sh
   title="Intelligent Study Build - Oracle integration with OpenStudyBuilder"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/4-33kqSTdeY"
+  src="https://www.youtube.com/embed/4-33kqSTdeY"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -50,7 +50,7 @@ Experience Oracle's innovative proof-of-concept that automatically extracts Sche
   title="Protocol Metadata to OpenStudyBuilder - an Oracle PoC for SoA import"
   width=720
   height=400
-  src="https://www.youtube-nocookie.com/embed/pL60r6h_xOc"
+  src="https://www.youtube.com/embed/pL60r6h_xOc"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

@@ -39,7 +39,7 @@ The following video shows a quick demonstration in Version 0.18.
   title="OpenStudyBuilder - Demonstration of Application"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/7mVddXicmmw"
+  src="https://www.youtube.com/embed/7mVddXicmmw"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -51,7 +51,7 @@ A more detailed desmonstration in Version 0.4 is available as well.
   title="OpenStudyBuilder - Demonstration of Application"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/dL5CY0BwfEs"
+  src="https://www.youtube.com/embed/dL5CY0BwfEs"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -65,7 +65,7 @@ The following video describes the background and scope.
   title="OpenStudyBuilder - Background & Scope"
   width=720
   height=405
-  src="https://www.youtube-nocookie.com/embed/dagWWR3ZBao"
+  src="https://www.youtube.com/embed/dagWWR3ZBao"
   frameBorder="0"
   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
