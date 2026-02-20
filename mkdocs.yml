@@ -16,6 +16,7 @@ nav:
     - Collaboration:
       - Open Source: info_open_source.md
       - Contribution: info_contribution.md
+      - Licenses: info_licenses.md
       - Community: info_osb_hub.md
       - DeepWiki: info_deepwiki.md
       - DDF Vision: info_ddf_vision.md
@@ -47,6 +48,7 @@ nav:
     - EDC Strategies: guide_edc.md
     - Activity Dashboard: guide_bc_dashboard.md
     - API: guide_api.md
+    - Word Add-In: guide_word_addin.md
   - FAQ:
     - faq.md
 
