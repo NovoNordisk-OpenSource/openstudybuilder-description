@@ -1,12 +1,13 @@
 # Environments {: class="guideH1"}
 
-(updated 2025-01-09 using v2.3) 
+(updated 2026-02-25) 
 {: class="guideCreated"}
 
 There are various ways how you can access the OpenStudyBuilder solution as a running application. The following options are documented:
 
-- Sandbox system (no own installation required)
-- Local docker installation 
+- Sandbox system (public playground, no installation)
+- Local docker installation (own build or pre-build)
+- HELM charts
 - Azure deployment
 
 ## Sandbox environment
@@ -21,15 +22,16 @@ The following tools and URLs are available after registration
 
 Tool | Login | Note
 --|--|--
-OpenStudyBuilder Application | [https://openstudybuilder.northeurope.cloudapp.azure.com/](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank} <br/>Click "Login" and register with the mail used for registration | main application
-Documentation | [https://openstudybuilder.northeurope.cloudapp.azure.com/doc/](https://openstudybuilder.northeurope.cloudapp.azure.com/doc/){target=_blank} <br/>No authentication required | product related documentation
-API | [https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs](https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
-NeoDash | [https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/](https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/){target=_blank} <br/>Use "SSO" Single Sign-On | Dashboard for underlying database
-DB Browser | [https://openstudybuilder.northeurope.cloudapp.azure.com/browser/](https://openstudybuilder.northeurope.cloudapp.azure.com/browser/){target=_blank} <br/>Use "SSO" Single Sign-On | Browser for underlying database
+OpenStudyBuilder Application | [https://sandbox.openstudybuilder.com/](https://sandbox.openstudybuilder.com/){target=_blank} <br/>Click "Login" and register with the mail used for registration<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank} | main application
+Documentation | [https://sandbox.openstudybuilder.com/doc/](https://sandbox.openstudybuilder.com/doc/){target=_blank} <br/>No authentication required<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/doc/){target=_blank} | product related documentation
+API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/api/docs){target=_blank} <br/>Use "Authorize" button to authenticate<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs/){target=_blank} | API documentation and running API calls
+Consumer API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/consumer-api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
+NeoDash | [https://sandbox.openstudybuilder.com/neodash/](https://sandbox.openstudybuilder.com/neodash/){target=_blank} <br/>Use "SSO" Single Sign-On<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/){target=_blank} | Dashboard for underlying database
+DB Browser | [https://sandbox.openstudybuilder.com/browser/](https://sandbox.openstudybuilder.com/browser/){target=_blank} <br/>Use "SSO" Single Sign-On<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/browser/){target=_blank} | Browser for underlying database
 
 ### Getting Access
 
-The public sandbox provides a convenient way for anyone to explore and test OpenStudyBuilder without the need to install any software. To request access to the sandbox environment, simply send an email to <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">openstudybuilder@neotechnology.com (Request Sandbox Access)</a>. 
+The public sandbox provides a convenient way for anyone to explore and test OpenStudyBuilder without the need to install any software. To request access to the sandbox environment, simply send an email to <a href="mailto:openstudybuilder@htp42.com?subject=Request%20Sandbox%20Access">openstudybuilder@htp42.com (Request Sandbox Access)</a>. 
 
 Please be aware that the sandbox is refreshed periodically, which means any data you create will be lost after a refresh. Additionally, all data in the sandbox is publicly accessible to anyone with sandbox access. For transparency and traceability, all data entries are tracked with the user's email address and are visible to everyone using the sandbox. Therefore, please avoid entering any sensitive or confidential information. The sandbox is intended for evaluation and learning purposes only.
 

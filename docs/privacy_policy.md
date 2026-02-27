@@ -72,6 +72,8 @@ If you are located in the European Union, you have the right to:
 
 You may contact the controller using the contact details above.
 
-5. No Analytics
+## 5. Analytics and Tracking
 
-This website does not use analytics or tracking tools.
+This website does not use third-party analytics tools (such as Google Analytics). However, as a GitHub Pages site, basic traffic analytics are automatically collected by GitHub and made available to the repository maintainers. This includes page views, visitor counts, and referrer information.
+
+For details on GitHub's data collection practices, please refer to the GitHub Privacy Statement referenced in Section 2.
