@@ -4,19 +4,14 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-9 February 2026 | Community Meeting (virtual) | Planned
 9 March 2026 | Community Meeting (virtual) | Planned
+13 April 2026 | Community Meeting (virtual) | Planned
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
+11 May 2026 | Community Meeting (virtual) | Planned
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
+15 June 2026 | Community Meeting (virtual) | Planned
+13 July 2026 | Community Meeting (virtual) | Planned
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Planned
-
-## Community Meeting (virtual)
-
-(9 February 2026, virtual event, 15:00-16:00 CET)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7398657977655922688/){target=_blank}.
 
 ## Community Meeting (virtual)
 
@@ -25,6 +20,14 @@ You can register for the event [here](https://www.linkedin.com/events/openstudyb
 Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
 
 You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7398658481039515648/){target=_blank}.
+
+## Community Meeting (virtual)
+
+(13 April 2026, virtual event, 15:00-16:00 CET)
+
+Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
+
+You can register for the event [here](https://www.linkedin.com/events/7434596641820598272/){target=_blank}.
 
 ## SCDM - EMEA Conference
 
@@ -37,6 +40,14 @@ There will be a whole track about OpenStudyBuilder. Furthermore, you can watch d
 (Monday 2026-05-04, 16:30-17:30 chaired by Ana Calduch Arques)
 
 Additional event information like registration and program is available [here](https://scdmlive.org/emea-conference-2026/){target=_blank}.
+
+## Community Meeting (virtual)
+
+(11 May 2026, virtual event, 15:00-16:00 CET)
+
+Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
+
+You can register for the event [here](https://www.linkedin.com/events/7434598616805195776/){target=_blank}.
 
 ## CDISC + TMF Europe Interchange
 
@@ -63,9 +74,25 @@ We will discuss the challenges faced, and highlight the opportunities presented 
 
 **Buy one - get three! Rule-Based Naming and Standardization of SoA, SDTM, and ADaM Metadata**
 
-(Thursday by Martin Gram and Julie S. B&oslash;dker)
+(Thursday 12:00 - 12:30 by Martin Gram and Julie S. B&oslash;dker)
 
 CodeX accelerates creation of high-quality metadata when new concepts for clinical trials are not yet defined. The tool integrates with the OpenStudyBuilder API to view existing concepts to avoid redundancy and to save new concepts directly in the library. Starting from preliminary inputs from subject-matter experts, it identifies concepts by searching CDISC Biomedical Concepts, CDISC Controlled Terminology, and the NCI Thesaurus. When a match exists, the preferred name and definition are combined with business rules and SDTM domain-specific rules to auto-generate SDTM metadata, Schedule of Activities name, and ADaM PARAM/PARAMCD. If no match exists, AI agents suggest a draft name and definition based on the content in the dictionaries. By replacing complex written naming conventions with guided automation, CodeX accelerates and improves metadata creation in a process that is easy to learn and update as standards evolve. It reduces redundancy resulting in faster trial metadata setup and reduced standards maintenance.
+
+## Community Meeting (virtual)
+
+(15 June 2026, virtual event, 15:00-16:00 CEST)
+
+Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
+
+You can register for the event [here](https://www.linkedin.com/events/7434599362632253440/){target=_blank}.
+
+## Community Meeting (virtual)
+
+(13 July 2026, virtual event, 15:00-16:00 CEST)
+
+Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
+
+You can register for the event [here](https://www.linkedin.com/events/7434599860022198273){target=_blank}.
 
 ## PHUSE EU Connect
 
