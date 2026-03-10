@@ -44,9 +44,13 @@ Extensions slot into two specific locations in the OpenStudyBuilder codebase:
 
 Both are **auto-discovered at startup** - no registration or wiring is required beyond placing the files in the correct directory.
 
-Frontend extensions could be visible always or activated via **feature flags**. A feature flag can be set to true via API or activated via toggle button in the user interface configured.
+**Feature flags** are a mechanism in OpenStudyBuilder to control the visibility of modules at runtime. They are used in the core application to show or hide entire functional areas - for example, compound management in the UI can be enabled or disabled via a feature flag. The same mechanism applies to extensions: a frontend extension can declare a feature flag in its router configuration, and it will only appear in the navigation when that flag is enabled. Whether a feature flag is used is optional and controlled by the extension itself - an extension that should always be visible simply omits the `featureFlag` property from its route definition.
 
-API extensions run inside the same process as the OpenStudyBuilder extensions API, which means they can import and call OpenStudyBuilders internal Python service layer directly - the same services that power the native API. This gives extensions access to studies, controlled terminology, concepts, and all other domain objects without making HTTP calls back to the main API. The full scope of OSB business logic and data access is available as a Python import.
+**Frontend extensions do not require an API extension.** A frontend extension can connect to the existing OSB API directly, integrate with external systems, or display information that requires no backend at all. API extensions are only needed when the extension requires custom backend logic not available in the existing OSB API.
+
+**API extensions do not require a frontend extension.** A standalone API extension is useful for creating new endpoints needed by downstream automation processes - for example, exporting OSB data in a specific format not currently supported, or providing an endpoint for another tool to trigger actions such as initial study setup in the database.
+
+**Extension Scope.** API extensions run inside the same process as the OpenStudyBuilder extensions API, which means they can import and call OpenStudyBuilders internal Python service layer directly - the same services that power the native API. This gives extensions access to studies, controlled terminology, concepts, and all other domain objects without making HTTP calls back to the main API. The full scope of OSB business logic and data access is available as a Python import.
 
 ---
 
@@ -64,17 +68,19 @@ studybuilder/src/extensions/<extension-name>/
 
 It is loaded automatically when the StudyBuilder development server starts or the application is built. The extension can define new routes, pages, and sidebar navigation entries, and has access to all existing OSB Vue components.
 
+A minimal frontend extension consists of a router configuration, at least one Vue view component, a store, and localization files. The [Hello extension](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/tree/main/studybuilder/src/extensions/hello){target=_blank} is the recommended starting point - its file structure reflects the minimum required. Detailed documentation of the expected structure is available in the Frontend Extensions [README](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/blob/main/studybuilder/src/extensions/README.md){target=_blank}.
+
 **Local development setup**
 
 - Have a local OSB instance running (for example pulled or built from Docker images).
-- In the `studybuilder/` directory, update the `.env` file:
+- In the `studybuilder/` directory, update the `.env` file - for example:
 
 ```
 VUE_APP_API_BASE_URL=http://localhost:5005/api
 VUE_APP_DOC_BASE_URL=http://localhost:5005/doc
 ```
 
-- Update `public/config.json` with the correct URLs:
+- Update `public/config.json` with the correct URLs - for example:
 
 ```json
 "API_BASE_URL": "http://localhost:5005/api",
@@ -91,7 +97,9 @@ yarn dev
 
 **Enabling a frontend extension via feature flag**
 
-A frontend extension is only visible in the UI when its feature flag is enabled. There are two ways to create the flag:
+Whether a frontend extension is controlled by a feature flag depends on its router configuration. If the route's `meta` object includes a `featureFlag` property (as in the Hello extension), the page only appears when that flag is enabled in OSB. If the `featureFlag` property is omitted, the extension is always visible once loaded.
+
+To enable a feature-flag-controlled extension, the flag must be created and set to true in OSB. There are two ways to do this:
 
 *Option 1 - via the Swagger API* (e.g. at `http://localhost:5005/api/docs`):
 
@@ -134,7 +142,7 @@ NEO4J_DSN=bolt://neo4j:changeme1234@localhost:5002/mdrdb
 
 ```bash
 pipenv shell
-pip install -e <install-path>/your-package/
+pip install <package>
 exit
 ```
 
@@ -181,6 +189,25 @@ Rebuild and restart the affected containers (remove old dockercontainers for ext
 ```bash
 docker compose up -d --force-recreate --no-deps extensionsapi
 docker compose up -d --force-recreate --no-deps frontend
+```
+
+---
+
+### Testing
+
+**API extensions** can be tested using the OSB test runner from the `clinical-mdr-api/` directory:
+
+```bash
+pipenv run extensions-test
+```
+
+This runs all tests found in `extensions/*/tests/`. Tests should be placed in a `tests/` subfolder within the extension directory. The Hello extension includes a working example of this structure.
+
+**Frontend extensions** do not have a dedicated test runner as part of the extensions framework. Code quality checks (linting and formatting) can be run with:
+
+```bash
+yarn lint
+yarn format
 ```
 
 ---
