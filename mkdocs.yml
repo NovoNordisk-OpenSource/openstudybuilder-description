@@ -49,6 +49,7 @@ nav:
     - Activity Dashboard: guide_bc_dashboard.md
     - API: guide_api.md
     - Word Add-In: guide_word_addin.md
+    - Extensions: guide_extensions.md
   - FAQ:
     - faq.md
 
