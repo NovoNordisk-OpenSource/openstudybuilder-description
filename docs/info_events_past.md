@@ -4,8 +4,22 @@
 
 Date | Event
 -- | --
-9 February 2026 | Community Meeting (virtual) | Planned
+13 April 2026 | Community Meeting (virtual) 
+9 March 2026 | Community Meeting (virtual) 
+9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(13 April 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
+### Community Meeting (virtual)
+
+(9 March 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ### Community Meeting (virtual)
 
