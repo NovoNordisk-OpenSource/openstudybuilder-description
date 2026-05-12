@@ -2,6 +2,19 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+
+### Community, DB Migration, CDISC Interchange, Releases
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7458405962702442497?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Extensions, CDISC Interchange, Growing Community, Release 2.5
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7436746753305071616?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Public Sandbox, Release 2.4, New Video Insights
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7432367419748323328?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### R&eacute;sum&eacute;, Roadmap and Version 2.3
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7419759535999004672?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -53,15 +66,3 @@ The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.l
 ### Resum&eacute; 2024
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7287831972062609408?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Community
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7275809283101888512?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release 0.12 & Events Recap
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7269729982212411393?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release 0.11.2, OSB Trail Controlled Terminology & Events
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7252706738343219202?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

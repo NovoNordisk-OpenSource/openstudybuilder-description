@@ -4,30 +4,13 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-9 March 2026 | Community Meeting (virtual) | Planned
-13 April 2026 | Community Meeting (virtual) | Planned
-3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Planned
-11 May 2026 | Community Meeting (virtual) | Planned
-18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Planned
-15 June 2026 | Community Meeting (virtual) | Planned
-13 July 2026 | Community Meeting (virtual) | Planned
+3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark | Scheduled
+11 May 2026 | Community Meeting (virtual) | Scheduled
+18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy | Scheduled
+15 June 2026 | Community Meeting (virtual) | Scheduled
+24 June 2026 | GUF Meeting - Paris, France | Planned
+13 July 2026 | Community Meeting (virtual) | Scheduled
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Planned
-
-## Community Meeting (virtual)
-
-(9 March 2026, virtual event, 15:00-16:00 CET)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/openstudybuildercommunitymeetin7398658481039515648/){target=_blank}.
-
-## Community Meeting (virtual)
-
-(13 April 2026, virtual event, 15:00-16:00 CET)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/7434596641820598272/){target=_blank}.
 
 ## SCDM - EMEA Conference
 
@@ -85,6 +68,12 @@ CodeX accelerates creation of high-quality metadata when new concepts for clinic
 Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
 
 You can register for the event [here](https://www.linkedin.com/events/7434599362632253440/){target=_blank}.
+
+## GUF Meeting - Paris, France
+
+(24 June 2026, Paris, France)
+
+Join us at the French CDISC User Group meeting in Paris. Nicolas will be available to connect and there will be likely a presentation on CDISC 360i which is highly related to OpenStudyBuilder. Additional information will be shared later.
 
 ## Community Meeting (virtual)
 
