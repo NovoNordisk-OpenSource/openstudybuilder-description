@@ -15,7 +15,7 @@ Of course there might be confidential information which should not be shared pub
 
 ## Access Public Sandbox Environment
 
-To get access to the Sandbox environment, you can simply send a mail to <a href="mailto:openstudybuilder@neotechnology.com">openstudybuilder@neotechnology.com</a> with the subject "Request Sandbox Access". Your e-mail will be used together with Microsoft authentication to access the various tools via browser. Please be aware that your mail might be exposed when you perform changes as all changes are tracked for a version history.
+To get access to the Sandbox environment, you can simply send a mail to <a href="mailto:openstudybuilder@htp42.com">openstudybuilder@htp42.com</a> with the subject "Request Sandbox Access". Your e-mail will be used together with Microsoft authentication to access the various tools via browser. Please be aware that your mail might be exposed when you perform changes as all changes are tracked for a version history.
 
 ## Contact
 
