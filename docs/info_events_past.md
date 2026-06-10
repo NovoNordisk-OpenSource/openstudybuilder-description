@@ -31,7 +31,7 @@ The USDM and M11 standards streamline the exchange of study and protocol definit
 The application also support M11 preview for easy overview supporting reviews and updates of structured M11 content managed within OpenStudyBuilder. Additionally, the API enables connectivity with other USDM-compliant systems.
 We will discuss the challenges faced, and highlight the opportunities presented by adopting this innovative USDM standard.
 
-**Buy one - get three! Rule-Based Naming and Standardization of SoA, SDTM, and ADaM Metadata**
+**Buy one - get three! Rule-Based Naming and Standardization of SoA, SDTM, and ADaM Metadata** ([slides](./presentations/2026-05-21-CDISC-Interchange-CodeX.pdf){target=_blank})
 
 (Thursday 12:00 - 12:30 by Martin Gram and Julie S. B&oslash;dker)
 
@@ -129,7 +129,7 @@ We discussed various aspects of the OpenStudyBuilder in our monthly community me
 
 linical trials are often slowed by manual, document-based processes, redundant authoring, and fragmented data systems, leading to long protocol approval cycles and compliance risks. The Open Study Builder (OSB)–Docuvera integration addresses these challenges by transforming protocol creation from a document-centric to a data-centric workflow. Leveraging CDISC USDM and TransCelerate Digital Data Flow (DDF) standards, the solution enables real-time data exchange, automated ICH M11-compliant protocol generation, and FHIR export for regulatory use. This seamless, structured approach accelerates study startup, improves consistency, and reduces operational burden across the clinical trial lifecycle.
 
-Video recording will soon be available.
+Video recording is available on [YouTube](https://youtu.be/yRZASUBmwY0?si=YH-tPlxP3rDeplsj){target=_blank}.
 
 The presentation slides are available [here](./presentations/2025-12-02-OSB-DocuVera-Integration.pdf){target=_blank}.
 

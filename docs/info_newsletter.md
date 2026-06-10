@@ -2,6 +2,9 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### Alliance Vision Established - Collaboration Agreement Signed
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7468328062477291521?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### Community, DB Migration, CDISC Interchange, Releases
 
