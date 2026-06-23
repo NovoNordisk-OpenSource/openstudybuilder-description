@@ -50,7 +50,7 @@ The second focus shows how protocol automation could work by using content direc
 
 ### ODM Study Definition solution
 
-The last video shows the ODM export which enables EDC vendors to read this in to setup the study within the corresponding EDC system.
+The last video shows the ODM export  which enables EDC vendors to read this in to setup the study within the corresponding EDC system.
 
 <iframe
   title="DDF-3 OpenStudyBuilder with EDC Integrations"
