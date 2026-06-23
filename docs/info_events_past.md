@@ -4,13 +4,21 @@
 
 Date | Event
 -- | --
+15 June 2026 | Community Meeting (virtual)
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy
+13 May 2026 | Digital Data Flow (DDF): Mission Possible - Hyperabad, India
 11 May 2026 | Community Meeting (virtual)
 3-5 Mai 2026 | SCDM - EMEA Conference - Copenhagen, Denmark
 13 April 2026 | Community Meeting (virtual) 
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(15 June 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ### CDISC + TMF Europe Interchange
 
@@ -36,6 +44,18 @@ We will discuss the challenges faced, and highlight the opportunities presented 
 (Thursday 12:00 - 12:30 by Martin Gram and Julie S. B&oslash;dker)
 
 CodeX accelerates creation of high-quality metadata when new concepts for clinical trials are not yet defined. The tool integrates with the OpenStudyBuilder API to view existing concepts to avoid redundancy and to save new concepts directly in the library. Starting from preliminary inputs from subject-matter experts, it identifies concepts by searching CDISC Biomedical Concepts, CDISC Controlled Terminology, and the NCI Thesaurus. When a match exists, the preferred name and definition are combined with business rules and SDTM domain-specific rules to auto-generate SDTM metadata, Schedule of Activities name, and ADaM PARAM/PARAMCD. If no match exists, AI agents suggest a draft name and definition based on the content in the dictionaries. By replacing complex written naming conventions with guided automation, CodeX accelerates and improves metadata creation in a process that is easy to learn and update as standards evolve. It reduces redundancy resulting in faster trial metadata setup and reduced standards maintenance.
+
+### Digital Data Flow (DDF): Mission Possible - Hyperabad, India
+
+(13 May 2026 - Hyperabad, India) 
+
+**DDF Adoption Story**
+
+(by Kirubavathi Selvaraj, Novo Nordisk)
+
+Kirubavathi presented on how Novo Nordisk is adopting DDF and OSB. She explained how the goal is to digitalize study specification metadata to improve reusability and enable automation, reducing manual, document-driven work aligned with our “One Digital Data Flow” vision. She also highlighted the importance of ensuring that both protocol users and digital study data specification users can work effectively with OpenStudyBuilder to support automation, while sustaining adoption and organizational support.
+
+The presentation slides are available [here](./presentations/2026-05-13-NN_DDF%20Adoption%20Journey_2026.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
