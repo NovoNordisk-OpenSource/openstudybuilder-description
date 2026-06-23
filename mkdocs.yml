@@ -7,9 +7,10 @@ site_description: This is a community site containing information about the Open
 copyright: Copyright &copy; 2026 OpenStudyBuilder Project
 
 nav:
-  - Description: index.md
-  - Info: 
+  - Home: index.md
+  - Info:
     - Status: status.md
+    - About the Project: info_project.md
     - Events: info_events.md
     - Past Events: info_events_past.md
     - Scope &amp; Direction: info_scope_direction.md

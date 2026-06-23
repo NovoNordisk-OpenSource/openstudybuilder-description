@@ -1,6 +1,6 @@
 # Environments {: class="guideH1"}
 
-(updated 2026-02-25) 
+(updated 2026-06-23) 
 {: class="guideCreated"}
 
 ## Pre-Requisites
@@ -71,10 +71,6 @@ Please be aware that the sandbox is refreshed periodically, which means any data
 
 ## Sandbox Migration - 2026-03-01
 
-As focus areas and operational priorities evolve, the decision was made to transition the hosting of the Public Sandbox to a partner with a stronger emphasis on operationalization and managed solution hosting. We are therefore pleased to announce that HealthTechPartners42 will take over the hosting of the Public Sandbox which will go live on 1st March 2026. With experience in Neo4j and infrastructure hosting as well as standards governance strategies and digital data flow setup, they bring the expertise required to ensure continued operation and sustainable maintenance of the environment. 
-The current sandbox instance will remain available until the transition is completed, after which it will be decommissioned to consolidate operations under the new setup.
+As focus areas and operational priorities evolve, the decision was made to transition the hosting of the Public Sandbox to a partner with a stronger emphasis on operationalization and managed solution hosting. We are therefore pleased to announce that HealthTechPartners42 took over the hosting of the Public Sandbox which went live on 1st March 2026. With experience in Neo4j and infrastructure hosting as well as standards governance strategies and digital data flow setup, they bring the expertise required to ensure continued operation and sustainable maintenance of the environment. 
 
-Type | Request Access | Sandbox URL
--- | -- | --
-Decomissioned soon | <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">openstudybuilder@neotechnology.com (Request Sandbox Access)</a> | [OpenStudyBuilder Sandbox](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank}
-Live soon | <a href="mailto:openstudybuilder@htp42.com?subject=Request%20Sandbox%20Access">openstudybuilder@htp42.com (Request Sandbox Access)</a> | [OpenStudyBuilder Sandbox](https://sandbox.openstudybuilder.com/){target=_blank}
+The old sandbox instance is decomissioned.
