@@ -56,6 +56,10 @@ nav:
   - FAQ:
     - faq.md
 
+# Plugins
+plugins:
+  - search
+
 # Style Sheet
 extra_css:
   - stylesheets/general.css
