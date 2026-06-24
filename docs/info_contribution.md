@@ -1,9 +1,9 @@
 # Contribution {: class="guideH1"}
 
-(status 2025-03-26) 
+(updated 2026-06-24) 
 {: class="guideCreated"}
 
-As OpenStudyBuilder adoption grows, Novo Nordisk is actively exploring a sustainable contribution model to enable broader participation in its development and maintenance. Given the complexity and scale of the project, code contributions have not yet been enabled, but with increasing interest from companies looking to implement OpenStudyBuilder, discussions are underway to define the future approach for maintaining and evolving the solution.
+As OpenStudyBuilder adoption grows, Novo Nordisk is actively enabling broader participation in its development and maintenance. Extensions and integrations can already be built by anyone. Core contributions to the OpenStudyBuilder codebase are supported via a Contributor License Agreement (CLA) process. A formal [collaboration agreement](./collab_intro.md) between Novo Nordisk, Bayer, and Boehringer Ingelheim is now in place, marking a significant step toward a shared industry-driven development model.
 
 ![Different contribution model options](./img/info_contribution_01.png){: .imageNoBorder}
 
@@ -16,7 +16,7 @@ In the scope of OpenStudyBuilder, additional functionality could be implemented 
     <img src="../img/info_contribution_02.png" class="imageNoBorder" alt="Core Contribution">
   </div>
   <div style="flex: 1;">
-     The "Core Contributions" are changes to the core source code of OpenStudyBuilder, currently owned, maintained, and released as open-source by Novo Nordisk. Discussions are ongoing about how the core can enable contributions and potentially include additional maintainers and owners in the future.
+     The "Core Contributions" are changes to the core source code of OpenStudyBuilder, led by Novo Nordisk and released as open-source. Core contributions from outside the formal collaboration agreement are supported via a Contributor License Agreement (CLA) process - see <a href="#core-contributions">below</a> for details.
   </div>
 </div>
 
@@ -25,7 +25,7 @@ In the scope of OpenStudyBuilder, additional functionality could be implemented 
     <img src="../img/info_contribution_03.png" class="imageNoBorder" alt="OSB Extension">
   </div>
   <div style="flex: 1;">
-    Then there is the option to create "OSB Extensions." These extensions look and feel as if they were core functionalities integrated into the User Interface but are actually standalone features that could be developed, maintained, and delivered by anyone using any license. The idea is to have plug-and-play functionality that can be additionally installed depending on the need, similar to existing Word Plugins that can be purchased and used.
+    Then there is the option to create "OSB Extensions". These extensions look and feel as if they were core functionalities integrated into the User Interface but are actually standalone features that could be developed, maintained, and delivered by anyone. The extension mechanism is now implemented - see the <a href="./../guide_extensions">Extensions Guide</a> for details. Note that licensing is not entirely free, as extensions are compiled into the OSB build - see below for details.
   </div>
 </div>
 
@@ -34,30 +34,32 @@ In the scope of OpenStudyBuilder, additional functionality could be implemented 
     <img src="../img/info_contribution_04.png" class="imageNoBorder" alt="Integrated Apps">
   </div>
   <div style="flex: 1;">
-    Finally, OpenStudyBuilder can integrate with various other applications, such as EDC systems, authoring tools, or any other relevant software. These integrations could also be developed, maintained, and delivered by anyone using any license. We already see integrations for Oracle and Marvin EDC systems, as well as the Marvin ePRO tool, and we anticipate many more in the coming year.
+    Finally, OpenStudyBuilder can integrate with various other applications, such as EDC systems, authoring tools, or any other relevant software. These integrations connect externally via the API and can be developed, maintained, and delivered by anyone using any license. We already see integrations for Oracle and Marvin EDC systems, as well as the Marvin ePRO tool, and we anticipate many more to come.
   </div>
 </div>
 
 
-## Extension and Integrations
+## Extensions and Integrations
 
-As mentioned, extensions and integrations could be developed, maintained and released by anyone using any license. For integrations, we recommend using the consumer API which is meant to be stable and version controlled. Currently, the API is not covering much functionality and some integrations might need to use the internal API. Please be aware that the internal API can be changed any time.
+**Integrations** connect to OpenStudyBuilder externally via the API and can be released under any license. The consumer API is stable and version controlled, but currently covers only a limited set of endpoints. Most integrations will therefore need to use the internal API - be aware that the internal API can change at any time.
 
-For extensions, we recommend talking to the OpenStudyBuilder team as we currently do not have guidelines, configurations or similar to support this. This might change in the future. You can contact us via <a href="mailto:OpenStudyBuilder@gmail.com">OpenStudyBuilder@gmail.com</a>.
+**Extensions** are now implemented and documented in the [Extensions Guide](./guide_extensions.md). Unlike integrations, extensions must be added before compilation and become part of the full OSB build. Since OpenStudyBuilder is licensed under GPLv3, the copyleft obligations of GPLv3 apply to the combined result when distributed. The guide also holds details on licensing implications.
 
-## Core-Contributions
+If you have questions, contact us via <a href="mailto:OpenStudyBuilder@gmail.com">OpenStudyBuilder@gmail.com</a>.
 
-Core contributions are code changes to the core source code of OpenStudyBuilder maintained by Novo Nordisk. Details about the intended initial process is work in progress.
+## Core Contributions
+
+Core contributions are code changes to the core source code of OpenStudyBuilder, led by Novo Nordisk. Contributing requires a Contributor License Agreement (CLA) - see below for details. Note that the formal collaboration agreement includes its own separate CLA arrangements as part of the partnership terms - the CLA described here applies to contributions outside of that partnership.
 
 ### Contributor License Agreement {#cla}
 
-To enable contributions in a legal setup, we will very likely work with a Contributor License Agreement (CLA) for entities. More information and the CLA will be added later.
+A Contributor License Agreement (CLA) is required for core contributions. The CLA can be requested by contacting us - once received and signed, submit it as described below.
 
 **Instructions**: When you have received and signed the CLA, send the scanned document as mail to <a href="mailto:kjgl@novonordisk.com">kjgl@novonordisk.com</a>.
 
 ### CLA Background
 
-When someone is the owner of source code, this entity is enabled to change the license to any other license. Without a CLA, contributions to a repository via GitHub or GitHub for example use the license of the repository. This means that for the copy-left license used in OpenStudyBuilder (GPLv3), contributions are also under the GPLv3 license. To enable the owner to change the license, a CLA is needed. The CLA is a legal document that gives the owner the right to change the license of the contributions among other rights. The CLA is a one-time process and is valid for all contributions to the repository from the entity.
+When someone is the owner of source code, this entity is enabled to change the license to any other license. Without a CLA, contributions to a repository via GitHub or GitLab for example use the license of the repository. This means that for the copy-left license used in OpenStudyBuilder (GPLv3), contributions are also under the GPLv3 license. To enable the owner to change the license, a CLA is needed. The CLA is a legal document that gives the owner the right to change the license of the contributions among other rights. The CLA is a one-time process and is valid for all contributions to the repository from the entity.
 
 **Why do we need a CLA?**
 
@@ -71,7 +73,7 @@ Facilitate Business & Community Adoption | Provides assurance to companies and i
 
 **Project Harmony Agreements**
 
-The [project harmony](https://www.harmonyagreements.org/){target=_blank} maintains standard contributor license agreements and assignment agreements which could be used. The following provides short overview of these two types:
+The OpenStudyBuilder CLA is based on the [Project Harmony](https://www.harmonyagreements.org/){target=_blank} standard agreements. The following provides a short overview of the two agreement types defined by Project Harmony:
 
 Feature | License Agreement (CLA) | Assignment Agreement (CAA)
 --- | --- | ---
@@ -83,4 +85,4 @@ Legal Complexity | Less complex, as it only grants a license. | More complex, as
 
 ## Long term vision
 
-We envision an alliance driven maintenance of the OpenStudyBuilder core in the far future. As this is work in progress, we will share additional information and the vision when available and approved.
+The vision of a shared, industry-driven model for maintaining and evolving OpenStudyBuilder is no longer a distant goal - it is being realised. A formal [collaboration agreement](./collab_intro.md) has been signed, establishing a committed partnership for co-development. The longer-term ambition is to continue growing this model - welcoming additional partners and driving broader industry adoption.
