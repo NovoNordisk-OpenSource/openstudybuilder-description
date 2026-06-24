@@ -64,10 +64,6 @@ extra_css:
 extra:
   generator: false
 
-# Repository
-repo_name: OpenStudyBuilder
-repo_url: https://github.com/NovoNordisk-OpenSource/openstudybuilder-description
-
 # Configuration
 theme:
   name: material
@@ -76,7 +72,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
   favicon: favicon.ico
-  logo: logoMini.svg
+  logo: logoMiniSquare.svg
   font:
     text: Roboto
     code: Roboto Mono
