@@ -7,9 +7,10 @@ site_description: This is a community site containing information about the Open
 copyright: Copyright &copy; 2026 OpenStudyBuilder Project
 
 nav:
-  - Description: index.md
-  - Info: 
+  - Home: index.md
+  - Info:
     - Status: status.md
+    - About the Project: info_project.md
     - Events: info_events.md
     - Past Events: info_events_past.md
     - Scope &amp; Direction: info_scope_direction.md
@@ -50,10 +51,14 @@ nav:
     - API: guide_api.md
     - Word Add-In: guide_word_addin.md
     - Extensions: guide_extensions.md
-  - Alliance:
+  - Initiative:
     - collab_intro.md
   - FAQ:
     - faq.md
+
+# Plugins
+plugins:
+  - search
 
 # Style Sheet
 extra_css:
@@ -63,10 +68,6 @@ extra_css:
 extra:
   generator: false
 
-# Repository
-repo_name: OpenStudyBuilder
-repo_url: https://github.com/NovoNordisk-OpenSource/openstudybuilder-description
-
 # Configuration
 theme:
   name: material
@@ -75,7 +76,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
   favicon: favicon.ico
-  logo: logoMini.svg
+  logo: logoMiniSquare.svg
   font:
     text: Roboto
     code: Roboto Mono

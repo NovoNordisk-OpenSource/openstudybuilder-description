@@ -1,0 +1,70 @@
+{% set class = "md-header" %}
+{% if "navigation.tabs.sticky" in features %}
+  {% set class = class ~ " md-header--shadow md-header--lifted" %}
+{% elif "navigation.tabs" not in features %}
+  {% set class = class ~ " md-header--shadow" %}
+{% endif %}
+<header class="{{ class }}" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header') }}" style="display: flex; align-items: flex-end; position: relative;">
+
+    <!-- Logo -->
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+
+    <!-- Mobile drawer button -->
+    <label class="md-header__button md-icon" for="__drawer">
+      {% set icon = config.theme.icon.menu or "material/menu" %}
+      {% include ".icons/" ~ icon ~ ".svg" %}
+    </label>
+
+    <!-- Navigation tabs inline, bottom-aligned -->
+    {% if "navigation.tabs" in features %}
+      <div class="md-header__tabs" style="display: flex; align-items: flex-end; padding-left: 1rem; padding-bottom: 0.4rem;">
+        <ul class="md-tabs__list" style="display: flex; list-style: none; margin: 0; padding: 0; gap: 0.1rem;">
+          {% for nav_item in nav %}
+            {% if nav_item.children %}
+              <li class="md-tabs__item">
+                <a href="{{ nav_item.children[0].url | url }}" class="md-tabs__link {% if nav_item == page.parent or nav_item.active %}md-tabs__link--active{% endif %}">
+                  {{ nav_item.title }}
+                </a>
+              </li>
+            {% else %}
+              <li class="md-tabs__item">
+                <a href="{{ nav_item.url | url }}" class="md-tabs__link {% if nav_item == page or nav_item.active %}md-tabs__link--active{% endif %}">
+                  {{ nav_item.title }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
+    <!-- Title region: required for search expansion -->
+    <div class="md-header__title" data-md-component="header-title" style="flex: 1; min-width: 0; visibility: hidden;">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">{{ config.site_name }}</span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            {% if page.meta and page.meta.title %}
+              {{ page.meta.title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search toggle label + search component -->
+    <label class="md-header__button md-icon" for="__search">
+      {% set icon = config.theme.icon.search or "material/magnify" %}
+      {% include ".icons/" ~ icon ~ ".svg" %}
+    </label>
+    {% include "partials/search.html" %}
+
+  </nav>
+</header>

@@ -1,6 +1,6 @@
 # Status
 
-The OpenStudyBuilder is an open source project which was released in October 2022 for the public. The agile development contineusly releases new versions in [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution){target=_blank}. On October 31, 2023, Novo Nordisk launched of the first business release of the internal OpenStudyBuilder. From that day on all phase 2 and 3 studies in Novo Nordisk use the OpenStudyBuilder to generate study protocol parts. As of 01-Oct-2025 the Schedule of Activities is created for all of our intervetional studies (ph1-4) in OpenStudyBuilder in Novo Nordisk. The data collection enablement will be coming soon.
+OpenStudyBuilder is an open-source project publicly released in October 2022. Since then, it has evolved continuously through agile development cycles, with new versions regularly published on GitHub. In October 2023, Novo Nordisk launched the first business release of OpenStudyBuilder internally - from that point on, all Phase 2 and 3 studies used it to generate structured study protocol content. By October 2025, the solution is used for all interventional studies (Phase 1-4) at Novo Nordisk. For this all Schedule of Activities are created within OpenStudyBuilder. Data collection enablement is the next milestone on the horizon. Today, OpenStudyBuilder is growing beyond a single-company solution. Bayer and Boehringer Ingelheim have joined as collaboration partners, marking the beginning of true industry co-development. 
 
 ## Getting Started
 
