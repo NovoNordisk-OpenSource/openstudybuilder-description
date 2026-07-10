@@ -4,6 +4,7 @@
 
 Date | Event
 -- | --
+24 June 2026 | GUF Meeting - Paris, France
 15 June 2026 | Community Meeting (virtual)
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy
 13 May 2026 | Digital Data Flow (DDF): Mission Possible - Hyperabad, India
@@ -13,6 +14,12 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+## GUF Meeting - Paris, France
+
+(24 June 2026, Paris, France)
+
+Nicolas was available at the GUF meeting and presented "From USDM to M11 and Back: OpenStudyBuilder as the Round‑Trip Engine". Please check the slides from the CDISC Interchange.
 
 ### Community Meeting (virtual)
 
