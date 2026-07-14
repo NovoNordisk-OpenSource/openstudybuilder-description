@@ -16,4 +16,5 @@ Checkout available resources!
 - Repository: [GitHub](https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution/){target=_blank}
 - Slack: [Join](https://join.slack.com/t/openstudybuilder/shared_invite/zt-19mtauzic-Jvrhtmy7hGstgyiIvB1Wsw){target=_blank}
 - Email: [openstudybuilder@gmail.com](mailto:openstudybuilder@gmail.com)
-- Request sandbox access: [Sandbox](./guide_sandbox.md#getting-access)
+- Request and access sandbox: [Sandbox](./guide_sandbox.md#getting-access)
+- Local installation: [Instructions](./guide_sandbox.md#local-docker-installation)

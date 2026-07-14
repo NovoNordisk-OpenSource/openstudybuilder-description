@@ -2,6 +2,14 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### Tiers, Webinar Teaser, DDF Recap, PHUSE Preview
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7482755390145945600?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Events R&eacute;sum&eacute;, Meetup, Hackathon, Migration
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7475172691470147585?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Alliance Vision Established - Collaboration Agreement Signed
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7468328062477291521?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -45,27 +53,3 @@ The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.l
 ### Meetup Insights, DDF Mission Possible, Word Add-In New Home
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351202833678901248?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### New Release, GitHub Transition, Veeva Partnership, CDISC Interchange Recap
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7338527867691061248?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release of Word Add-In & Version 0.15
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7327308474118270976?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Vision, Status & Roadmap
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7320834530284625920?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Beyond Concepts, Events & Release 0.14.2
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7310242858928656384?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release 0.14 and Short-Term-Roadmap
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7298632864797982720?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Resum&eacute; 2024
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7287831972062609408?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
