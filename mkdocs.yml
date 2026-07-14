@@ -38,6 +38,7 @@ nav:
   - Guides:
     - Introduction: guide_intro.md
     - Overview: guide_overview.md
+    - Tool Documentation: guide_tools_doc.md
     - Environments: guide_sandbox.md
     - Codelists: guide_codelists.md
     - CRF: guide_crf.md
