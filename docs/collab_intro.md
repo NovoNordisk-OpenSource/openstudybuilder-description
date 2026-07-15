@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 
 # Alliance Vision Established - Collaboration Agreement Signed
