@@ -53,7 +53,8 @@ nav:
     - Word Add-In: guide_word_addin.md
     - Extensions: guide_extensions.md
   - Initiative:
-    - collab_intro.md
+    - Introduction: collab_intro.md
+    - Tiering: collab_tiers.md
   - FAQ:
     - faq.md
 
