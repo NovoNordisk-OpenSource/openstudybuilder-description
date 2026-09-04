@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # Open Source Strategy and Rationale
 
 **OpenStudyBuilder** is a next-generation solution for end-to-end clinical data standards and study specifications. It enables study data tools to access structured metadata that reduces manual, document-driven processes and supports automation through a Digital Data Flow approach.

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # DeepWiki - Talk to our Source Code {: class="guideH1"}
 
 (status 2025-12-10) 
