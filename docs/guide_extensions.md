@@ -1,6 +1,6 @@
 # Guide for Extensions in OpenStudyBuilder {: class="guideH1"}
 
-(created 2025-03-10 using OSB 2.5)
+(created 2026-03-10 using OSB 2.5)
 {: class="guideCreated"}
 
 ## Introduction

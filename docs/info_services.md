@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Services
 
 Novo Nordisk, the company behind the development of OpenStudyBuilder, does not directly provide services related to the tool. However, we actively support the user community through various channels such as meetings, Slack discussions, comprehensive documentation, and more, to facilitate the effective use of OpenStudyBuilder.

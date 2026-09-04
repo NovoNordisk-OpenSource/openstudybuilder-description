@@ -4,11 +4,21 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-13 July 2026 | Community Meeting (virtual) | Scheduled
-1 September 2026 | Community Meeting (virtual) | Scheduled
+17 September 2026 | PHUSE SDE Basel, Switzerland | Scheduled
 22 September 2026 | Community Meeting (virtual) | Scheduled
 13 October 2026 | Community Meeting (virtual) | Scheduled
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Scheduled
+
+## PHUSE SDE Basel, Switzerland
+
+(17 September 2026)
+
+Katja Glass will be presenting **Good Vibes Only - A Coding Journey to OpenStudyBuilder Extensions". 
+
+AI-assisted "vibe coding" is everywhere these days. This presentation shares a hands-on journey of building a Clinical Study Protocol Word update solution as an extension to the OpenStudyBuilder open-source project. Watch how a working solution emerges with only the problem in mind – developed with Claude as coding companion. The talk walks through the process: how the idea was scoped, how prompts and the solution evolved, where AI accelerated development, and where careful course-correction was needed.
+
+Beyond the concrete showcase, the presentation reflects on broader takeaways: when vibe coding is genuinely useful for proof-of-concept work such as additional features for OpenStudyBuilder via extensions, which pitfalls to anticipate, and what mindset and guardrails help turn such experiments into reliable components for clinical workflows. Attendees will leave with realistic expectations, concrete starting points, and inspiration to build their own tooling.
+
 
 ## Community Meeting (virtual)
 

@@ -4,6 +4,8 @@
 
 Date | Event
 -- | --
+1 September 2026 | Community Meeting (virtual) | Scheduled
+13 July 2026 | Community Meeting (virtual) | Scheduled
 24 June 2026 | GUF Meeting - Paris, France
 15 June 2026 | Community Meeting (virtual)
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy
@@ -14,6 +16,18 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(1 September 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
+### Community Meeting (virtual)
+
+(13 July 2026, virtual event)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ## GUF Meeting - Paris, France
 
