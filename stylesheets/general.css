@@ -1,0 +1,172 @@
+img {
+  border: 1px solid;
+}
+
+.md-typeset hr {
+  margin: 1.5em 0;
+  border-bottom: 0.05rem solid hsl(0deg 0% 0% / 25%);
+}
+
+:root {
+  --md-primary-fg-color: #001965;
+  --md-primary-fg-color--light: #ffffff;
+  --md-primary-fg-color--dark: #001965;
+}
+
+:root > * {
+  --md-footer-fg-color: hsla(0, 0%, 100%, 1);
+  --md-footer-bg-color: #001965;
+  --md-footer-bg-color--dark: #001040;
+}
+
+.guideH1 {
+  margin: 0 0 0 !important;
+}
+
+.guideCreated {
+  margin: 0 0 1.25em;
+  font-size: 0.6rem;
+}
+
+.imageDescription {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0;
+  font-size: 0.7rem;
+}
+
+.imageParagraph {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.imageNoBorder {
+  border: none;
+}
+
+.imageMaxWidth600 {
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.imageMaxWidth400 {
+  max-width: 400px !important;
+  height: auto;
+}
+
+.md-header__button.md-logo img {
+  border: none !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+
+/* Larger logo box */
+.md-header__button.md-logo {
+  padding: 0.2rem 0.6rem;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 4rem;
+  width: auto;
+}
+
+/* Hide the original tabs bar - nav is now inline in the header */
+.md-tabs {
+  display: none;
+}
+
+/* Style the inline header tabs */
+.md-header__tabs .md-tabs__link {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.7rem;
+  text-decoration: none;
+  padding: 0.3rem 0.3rem;
+  white-space: nowrap;
+}
+
+.md-header__tabs .md-tabs__link:hover,
+.md-header__tabs .md-tabs__link--active {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* Search top-aligned in header */
+.md-header__button[for="__search"],
+.md-search {
+  align-self: flex-start;
+  margin-top: 0.4rem;
+}
+
+/* Search box: light blue background, white text and icon */
+.md-search__form {
+  background-color: #6196db !important;
+}
+
+.md-search__input {
+  color: #ffffff !important;
+}
+
+.md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.md-search__icon {
+  color: #ffffff !important;
+}
+
+/* Right sidebar (TOC): light blue background, white text */
+.md-sidebar--secondary .md-sidebar__scrollwrap,
+.md-sidebar--secondary .md-sidebar__inner,
+.md-nav--secondary,
+.md-nav--secondary .md-nav__title {
+  background-color: #6196db !important;
+}
+
+/* Remove the fade-out gradient mask and any pseudo-element fades */
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+}
+
+.md-sidebar--secondary .md-sidebar__scrollwrap::before,
+.md-sidebar--secondary .md-sidebar__scrollwrap::after {
+  display: none !important;
+}
+
+.md-sidebar--secondary .md-nav__title,
+.md-sidebar--secondary .md-nav__link {
+  color: #ffffff !important;
+}
+
+.md-sidebar--secondary .md-nav__title {
+  box-shadow: none !important;
+  background-color: #6196db !important;
+  padding-top: 0.5rem !important;
+}
+
+.md-sidebar--secondary .md-nav__link--active {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+
+.small-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.small-table thead th {
+  text-align: center; /* Center align only for thead */
+}
+
+.small-table th, .small-table td {
+  padding: 2px; 
+  border: 1px solid #000;
+}
+
+.light-grey-back {
+  background-color: #f0f0f0;
+}
