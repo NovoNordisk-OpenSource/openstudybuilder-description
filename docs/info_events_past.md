@@ -4,8 +4,10 @@
 
 Date | Event
 -- | --
-1 September 2026 | Community Meeting (virtual) | Scheduled
-13 July 2026 | Community Meeting (virtual) | Scheduled
+22 September 2026 | Community Meeting (virtual)
+17 September 2026 | PHUSE SDE Basel, Switzerland
+1 September 2026 | Community Meeting (virtual)
+13 July 2026 | Community Meeting (virtual)
 24 June 2026 | GUF Meeting - Paris, France
 15 June 2026 | Community Meeting (virtual)
 18-22 May 2026 | CDISC + TMF Europe Interchange - Milan, Italy
@@ -19,6 +21,24 @@ Date | Event
 
 ### Community Meeting (virtual)
 
+(22 September 2026, virtual event, 15:00-16:00 CEST)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
+### PHUSE SDE Basel, Switzerland
+
+(17 September 2026)
+
+Katja Glass presented **Good Vibes Only - A Coding Journey to OpenStudyBuilder Extensions". 
+
+AI-assisted "vibe coding" is everywhere these days. This presentation shares a hands-on journey of building a Clinical Study Protocol Word update solution as an extension to the OpenStudyBuilder open-source project. Watch how a working solution emerges with only the problem in mind – developed with Claude as coding companion. The talk walks through the process: how the idea was scoped, how prompts and the solution evolved, where AI accelerated development, and where careful course-correction was needed.
+
+Beyond the concrete showcase, the presentation reflects on broader takeaways: when vibe coding is genuinely useful for proof-of-concept work such as additional features for OpenStudyBuilder via extensions, which pitfalls to anticipate, and what mindset and guardrails help turn such experiments into reliable components for clinical workflows. Attendees will leave with realistic expectations, concrete starting points, and inspiration to build their own tooling.
+
+The presentation slides are available [here](./presentations/2026-09-17-SDE-VibeCoding-Extensions.pdf){target=_blank}.
+
+### Community Meeting (virtual)
+
 (1 September 2026, virtual event)
 
 We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
@@ -29,7 +49,7 @@ We discussed various aspects of the OpenStudyBuilder in our monthly community me
 
 We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
-## GUF Meeting - Paris, France
+### GUF Meeting - Paris, France
 
 (24 June 2026, Paris, France)
 
@@ -184,7 +204,7 @@ The presentation slides are available [here](./presentations/2025-12-02-OSB-Docu
 
 This webinar showcases the OpenStudyBuilder - OSB and how it can be integrated in the clinical solution landscape to streamline protocol creation according to ICH M11 template for a study protocol creation. We show how to improve cross-functional collaboration, and enable true content reuse by metadata driven approaches. With expert insights and real-world considerations, we will explore both the strategic vision and practical implementation opportunities.
 
-Video recording will soon be available.
+Video recording is available [here](https://inconsult-online.de/Others/Video/INCONSULT_Webinar_OSB.mp4){target=_blank}.
 
 ### PHUSE EU Connect
 

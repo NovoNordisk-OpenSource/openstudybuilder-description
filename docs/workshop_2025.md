@@ -1,5 +1,7 @@
 # Workshop Exercises - Design and Build with OpenStudyBuilder
 
+This workshop was held at the [CDISC EU Interchange in Geneva on 13 May 2025](info_events_past.md#workshop-at-cdisc-eu-interchange){target=_blank}. The exercises remain valuable and can still be completed in the current sandbox environment, so they are kept available here as a self-paced tutorial. Note that the application has evolved since 2025 - some screens and wordings in the video demonstrations may differ slightly from what you see today. The full slidedeck of the workshop is available [here](./presentations/2025-05-13-OpenStudyBuilder_Workshop_SoA.pdf){target=_blank}.
+
 The following instructions are available for the "COSA OpenStudyBuilder Workshop: CDISC 360i - Design and Build with OpenStudyBuilder". Please follow the instructions.
 
 The CDISC Pilot study can be used as a reference for the exercises. We updated the SoA to reflect activity names which are available in OpenStudyBuilder and reduce the number of visits. The pilot study protocol is available [here](https://github.com/cdisc-org/DDF-RA/raw/v3.12.0/Documents/Examples/CDISC_Pilot/CDISC_Pilot_Study.pdf){target=_blank} and the USDM 3.12 representation [here](https://github.com/cdisc-org/DDF-RA/raw/v3.12.0/Documents/Examples/CDISC_Pilot/CDISC_Pilot_Study.xlsx){target=_blank}.
@@ -10,10 +12,10 @@ Clinical Study Protocol information should be entered into the OpenStudyBuilder 
 
 ## Prerequisites
 
-- Sandbox account (requested via mail: <a href="mailto:openstudybuilder@neotechnology.com?subject=Request%20Sandbox%20Access">
-openstudybuilder@neotechnology.com - Request Sandbox Access</a>)
-- Note, mail address might be exposed due to audit-trail
-- Access and log into the sandbox environment ([https://openstudybuilder.northeurope.cloudapp.azure.com/](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank})
+- Sandbox account - request access via mail: <a href="mailto:openstudybuilder@htp42.com?subject=Request%20Sandbox%20Access">openstudybuilder@htp42.com - Request Sandbox Access</a>
+- Note, the mail address might be exposed due to the audit trail. Do not enter any confidential information into the sandbox.
+- Access and log into the sandbox environment ([https://sandbox.openstudybuilder.com/](https://sandbox.openstudybuilder.com/){target=_blank})
+- More details on the sandbox and the other available tools are described in the [Environments](guide_sandbox.md) guide
 
 ## Exercise 1: Create a Study
 
@@ -98,7 +100,7 @@ openstudybuilder@neotechnology.com - Request Sandbox Access</a>)
 - Create Study Visits (Studies -> Define Study -> Study Structure -> Study Visits)
 - Checkout the exercise 2 and use the same information as above
 - It's recommended to create first the "week 0" visit to have the "anchor" for all other visits which are relative to this one.
-- Additional details about visits are available in the system documentation [here](https://openstudybuilder.northeurope.cloudapp.azure.com/doc/guides/userguide/studies/guide_visits.html){target=_blank}.
+- Additional details about visits are available in the system documentation [here](https://sandbox.openstudybuilder.com/doc/guides/userguide/studies/guide_visits.html){target=_blank}.
 - Create at least three visits
 
 ??? tip "Tip"

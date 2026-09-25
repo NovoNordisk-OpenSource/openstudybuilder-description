@@ -11,6 +11,14 @@ img {
   --md-primary-fg-color: #001965;
   --md-primary-fg-color--light: #ffffff;
   --md-primary-fg-color--dark: #001965;
+  /* Links: brighter blue so they stand out from the near-black body text.
+     Without this Material falls back to --md-primary-fg-color (#001965). */
+  --md-typeset-a-color: #1a5cb8;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: #3f7fd6;
 }
 
 :root > * {

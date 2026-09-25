@@ -4,45 +4,24 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-17 September 2026 | PHUSE SDE Basel, Switzerland | Scheduled
-22 September 2026 | Community Meeting (virtual) | Scheduled
 13 October 2026 | Community Meeting (virtual) | Scheduled
+13-14 October 2026 | Scope Summit | Scheduled
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Scheduled
-
-## PHUSE SDE Basel, Switzerland
-
-(17 September 2026)
-
-Katja Glass will be presenting **Good Vibes Only - A Coding Journey to OpenStudyBuilder Extensions". 
-
-AI-assisted "vibe coding" is everywhere these days. This presentation shares a hands-on journey of building a Clinical Study Protocol Word update solution as an extension to the OpenStudyBuilder open-source project. Watch how a working solution emerges with only the problem in mind – developed with Claude as coding companion. The talk walks through the process: how the idea was scoped, how prompts and the solution evolved, where AI accelerated development, and where careful course-correction was needed.
-
-Beyond the concrete showcase, the presentation reflects on broader takeaways: when vibe coding is genuinely useful for proof-of-concept work such as additional features for OpenStudyBuilder via extensions, which pitfalls to anticipate, and what mindset and guardrails help turn such experiments into reliable components for clinical workflows. Attendees will leave with realistic expectations, concrete starting points, and inspiration to build their own tooling.
+Q4 | Webinar - OpenStudyBuilder Demonstration | Planned
+Q4 | Webinar - OpenStudyBuilder Collaboration | Planned
 
 
-## Community Meeting (virtual)
+## Scope Summit
 
-(13 July 2026, virtual event, 15:00-16:00 CEST)
+(13-14 October 2026 - Barcelona, Spain)
 
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
+**Yes, You Can (Digitalise That) - Streamlining Study Design through Protocol Digitalisation**
 
-You can register for the event [here](https://www.linkedin.com/events/7434599860022198273){target=_blank}.
+(by Camilla Kehler, Associate Digital Product Director, Novo)
 
-## Community Meeting (virtual)
+Too often, clinical trial protocols are held together by a patchwork of disconnected platforms and manual workarounds, a system built on repeated data entry, mismatched formats, and limited data consistency. It’s inefficient, error-prone, and a major barrier to accelerating study start-up. This session will explore how biopharmaceutical companies are changing that by digitalizing protocol design and authoring. Using an open-source, vendor-agnostic data model, organizations are automating data flow, improving interoperability across systems, and gaining insight to inform better study design. Join us to see how this approach can unlock new use cases from registry submission to statistical analysis; automate data flow and interoperability between systems; reduce study start-up effort, cycle time, and complexity; improve quality and compliance
 
-(1 September 2026, virtual event, 15:00-16:00 CEST)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/event/manage/7481301441979162624/){target=_blank}.
-
-## Community Meeting (virtual)
-
-(22 September 2026, virtual event, 15:00-16:00 CEST)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/event/manage/7481311692077920256/){target=_blank}.
+Additional event information [here](https://www.scopesummiteurope.com/){target=_blank}.
 
 ## Community Meeting (virtual)
 
@@ -67,3 +46,11 @@ Additional event information and registration is available [here](https://events
 Open-source adoption in the pharmaceutical industry continues to grow, yet sustainable contributions and long-term collaboration remain significant challenges. Compared to other industries, contribution models in pharma are often limited by complexity, compliance expectations, fragmented ownership, and uncertainty around governance and maintenance responsibilities.
 
 This presentation explores key challenges surrounding open-source collaboration in clinical research using OpenStudyBuilder as a practical example. It outlines the considerations, experiences, and developments that led to the creation of a collaborative alliance model designed to strengthen industry alignment, co-development, and long-term sustainability. The session highlights how the alliance evolved, its current state, and its future direction in advancing OpenStudyBuilder toward enabling a truly connected digital data flow for the pharmaceutical industry.
+
+## OpenStudyBuilder Demonstration
+
+New to OpenStudyBuilder or curious about what it can do today? In Q4 2026, we will host a webinar introducing the solution with a live demonstration: from setting up a study and building its Schedule of Activities, through reusing study metadata downstream, to managing standards in the Library. There will be plenty of time for your questions.
+
+## OpenStudyBuilder Collaboration
+
+Interested in shaping OpenStudyBuilder together with us? In a second webinar in Q4 2026, we will introduce the collaboration model: how organizations can get involved, how the partners work together today, and what the partners gain from joining. Again, we will leave ample room for questions and discussion.
