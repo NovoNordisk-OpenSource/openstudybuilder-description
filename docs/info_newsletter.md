@@ -2,6 +2,14 @@
 
 The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/){target=_blank}. 
 
+### Release 2.10
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7510606196362412032?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Standards Workshop, External Proof of Concepts, New Team Member
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7505886438408814592?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Tiers, Webinar Teaser, DDF Recap, PHUSE Preview
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7482755390145945600?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -41,15 +49,3 @@ The OpenStudyBuilder Newsletter is published monthly on [LinkedIn](https://www.l
 ### Release 2.0, Recap DDF Mission Possible, Upcoming PHUSE EU Connect
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7391785210633277440?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Phase 1, Rebranding, New Releases & New Community
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7378673923606986752?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Release 0.18 & EDC Integration Strategies
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7361789245251801088?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-### Meetup Insights, DDF Mission Possible, Word Add-In New Home
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351202833678901248?collapsed=1" height="850" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
