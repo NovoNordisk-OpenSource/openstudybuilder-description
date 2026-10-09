@@ -1,0 +1,2577 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+    <meta property="og:image" content="https://novonordisk-opensource.github.io/openstudybuilder-description/img/screenshot.png" />
+    <meta property="og:description" content="This is a community site containing information about the OpenStudyBuilder Application. The OpenStudyBuilder is an open-source project for clinical study evaluations. This tool is a new approach for working with studies that once fully implemented will drive end-to-end consistency and more efficient processes.">
+
+    
+      
+        <title>EDC Strategies - OpenStudyBuilder</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/general.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#edc-integration-strategies" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header" style="display: flex; align-items: flex-end; position: relative;">
+
+    <!-- Logo -->
+    <a href=".." title="OpenStudyBuilder" class="md-header__button md-logo" aria-label="OpenStudyBuilder" data-md-component="logo">
+      
+  <img src="../logoMiniSquare.svg" alt="logo">
+
+    </a>
+
+    <!-- Mobile drawer button -->
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+
+    <!-- Navigation tabs inline, bottom-aligned -->
+    
+      <div class="md-header__tabs" style="display: flex; align-items: flex-end; padding-left: 1rem; padding-bottom: 0.4rem;">
+        <ul class="md-tabs__list" style="display: flex; list-style: none; margin: 0; padding: 0; gap: 0.1rem;">
+          
+            
+              <li class="md-tabs__item">
+                <a href=".." class="md-tabs__link ">
+                  Home
+                </a>
+              </li>
+            
+          
+            
+              <li class="md-tabs__item">
+                <a href="../status/" class="md-tabs__link ">
+                  Info
+                </a>
+              </li>
+            
+          
+            
+              <li class="md-tabs__item">
+                <a href="../guide_intro/" class="md-tabs__link md-tabs__link--active">
+                  Guides
+                </a>
+              </li>
+            
+          
+            
+              <li class="md-tabs__item">
+                <a href="../collab_intro/" class="md-tabs__link ">
+                  Initiative
+                </a>
+              </li>
+            
+          
+            
+              <li class="md-tabs__item">
+                <a href="../faq/" class="md-tabs__link ">
+                  FAQ
+                </a>
+              </li>
+            
+          
+        </ul>
+      </div>
+    
+
+    <!-- Title region: required for search expansion -->
+    <div class="md-header__title" data-md-component="header-title" style="flex: 1; min-width: 0; visibility: hidden;">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">OpenStudyBuilder</span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              EDC Strategies
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search toggle label + search component -->
+    <label class="md-header__button md-icon" for="__search">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+    </label>
+    <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../status/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Info
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../guide_intro/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Guides
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../collab_intro/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Initiative
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../faq/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  FAQ
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="OpenStudyBuilder" class="md-nav__button md-logo" aria-label="OpenStudyBuilder" data-md-component="logo">
+      
+  <img src="../logoMiniSquare.svg" alt="logo">
+
+    </a>
+    OpenStudyBuilder
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Info
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Info
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../status/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Status
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About the Project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_events_past/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Past Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_scope_direction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scope &amp; Direction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Collaboration
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Collaboration
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_open_source/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Open Source
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_contribution/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contribution
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_licenses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Licenses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_osb_hub/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Community
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_deepwiki/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    DeepWiki
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_ddf_vision/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    DDF Vision
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_ddf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    DDF Context
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_environment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Environments
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_costs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Costs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_integrations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Integrations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_services/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Services
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_resources/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_newsletter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Newsletter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_13" id="__nav_2_13_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Demonstrations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_13">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Demonstrations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_demo_videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Videos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_demo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Library
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_demo_lib_activities/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Manage Activity
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info_demo_study_create/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Create Study
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_14" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_14" id="__nav_2_14_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Training
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_14">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Training
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../workshop_2025/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Workshop SoA
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_intro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_tools_doc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tool Documentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_sandbox/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Environments
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_codelists/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Codelists
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_crf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CRF
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_manage_studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Manage studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_study_structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Study Structure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_visits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Visits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_activity_concept/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Activity Concept
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_beyond_concepts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Beyond Concepts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EDC Strategies
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EDC Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview-of-edc-integrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview of EDC Integrations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crfs-in-openstudybuilder" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CRFs in OpenStudyBuilder
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#veeva-edc-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Veeva EDC Integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Veeva EDC Integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#high-level-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        High Level Overview
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#detailed-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Detailed Plan
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oracle-edc-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Oracle EDC Integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Oracle EDC Integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#demonstration-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Demonstration Videos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_bc_dashboard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Activity Dashboard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_api/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    API
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_word_addin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Add-In
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide_extensions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Extensions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Initiative
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Initiative
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collab_intro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collab_tiers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tiering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    FAQ
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview-of-edc-integrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview of EDC Integrations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crfs-in-openstudybuilder" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CRFs in OpenStudyBuilder
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#veeva-edc-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Veeva EDC Integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Veeva EDC Integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#high-level-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        High Level Overview
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#detailed-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Detailed Plan
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oracle-edc-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Oracle EDC Integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Oracle EDC Integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#demonstration-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Demonstration Videos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 class="guideH1" id="edc-integration-strategies">EDC Integration Strategies<a class="headerlink" href="#edc-integration-strategies" title="Permanent link">&para;</a></h1>
+<p class="guideCreated">(created 2025-07-17) </p>
+<h2 id="overview-of-edc-integrations">Overview of EDC Integrations<a class="headerlink" href="#overview-of-edc-integrations" title="Permanent link">&para;</a></h2>
+<p>The OpenStudyBuilder is not an EDC system, nor should it replace one. But it contains metadata to enable EDC setup automation and enables integrations. The current overview provides a list of EDC systems and the integration strategies that are currently available, tested or planned.</p>
+<table>
+<thead>
+<tr>
+<th>EDC System</th>
+<th>Status</th>
+<th>Integration Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oracle Clinical One</td>
+<td>Live</td>
+<td>API-based integration, "Automated Study Builder Application" available, utilizing extensions for edit checks and more, developed by Oracle</td>
+</tr>
+<tr>
+<td>Veeva EDC</td>
+<td>PoC</td>
+<td>API-based integration, limited features due to currently missing API endpoints on Veeva side, development by OpenStudyBuilder team with ongoing improvement discussions</td>
+</tr>
+<tr>
+<td>Marvin EDC</td>
+<td>PoC</td>
+<td>ODM.xml export and import, tested by EvidentIQ</td>
+</tr>
+<tr>
+<td>REDCAP Cloud</td>
+<td>PoC</td>
+<td>ODM.xml export and import, tested by University community</td>
+</tr>
+<tr>
+<td>[ODM.xml based EDC Systems]</td>
+<td>theoretical support</td>
+<td>ODM.xml export and import, no specific other EDC system tested yet</td>
+</tr>
+<tr>
+<td>Medidata Rave</td>
+<td>N/A</td>
+<td>None - needs to be requested by PharmaCos and someone willing to implement it</td>
+</tr>
+</tbody>
+</table>
+<h2 id="crfs-in-openstudybuilder">CRFs in OpenStudyBuilder<a class="headerlink" href="#crfs-in-openstudybuilder" title="Permanent link">&para;</a></h2>
+<p>The OpenStudyBuilder supports a <strong>CRF library</strong> on the standards level. CRFs can be designed and visualized in the OpenStudyBuilder containing forms, item groups and items in alignment with the ODM.xml standard. Furthermore, extensions and aliases can be defined to support the EDC system specific requirements. Please check out the guide on <a href="../guide_crf/">CRF</a> for more details. We are currently working on binding CRF elements to activities using biomedical concepts. For more details on this, please refer to the <a href="../guide_activity_concept/">Activity Concepts</a> and <a href="../guide_beyond_concepts/">Beyond Concepts</a> for detailed information. Unless this work is done, a <strong>study CRF is NOT available</strong>.</p>
+<h2 id="veeva-edc-integration">Veeva EDC Integration<a class="headerlink" href="#veeva-edc-integration" title="Permanent link">&para;</a></h2>
+<p>The OpenStudyBuilder team is currently working on a continuous improvement of our proof of concept for the Veeva EDC integration. The integration is based on the OpenStudyBuilder and Veeva's APIs. The goal is to enable the creation of studies in Veeva EDC based on the CRF library, metadata and study design defined in OpenStudyBuilder.</p>
+<p>The following video shows a quick overview of the Proof of Concept.</p>
+<p><iframe
+  title="OpenStudyBuilder - Automating the Veeva EDC study setup"
+  width=720
+  height=405
+  src="https://www.youtube.com/embed/2bIwZWaNGVQ"
+  frameBorder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+</p>
+<h3 id="high-level-overview">High Level Overview<a class="headerlink" href="#high-level-overview" title="Permanent link">&para;</a></h3>
+<p>The following high-level overview shows the main idea.</p>
+<p class="imageParagraph imageMaxWidth600"><img alt="High Level Overview of Veeva EDC Integration Plans" src="../img/guide_edc_04_006.png" /></p>
+<p class="imageDescription">Figure 1: High Level Overview of Veeva EDC Integration Plans</p>
+<p>We plan to synchronize the Veeva EDC CRF Library and the OpenStudyBuilder CRF library. These OpenStudyBuilder CRF library elements are then linked to activity instances which are used in the study specific Schedule of Activities (SoA) - we name this SoA Level 4. The long-term vision is to link the elements of the OpenStudyBuilder CRF library to activity instances that are used in the study-specific Schedule of Activities (SoA) - which we refer to as SoA Level 4. In our current proof of concept (PoC), which serves as the foundation for the development of SoA Level 4 when creating a study in OpenStudyBuilder, we can trigger an automation that will set up the Study in Veeva EDC based on the OpenStudyBuilder SoA Level 3, in combination with some workarounds using Neodash reports.</p>
+<p class="imageParagraph"><a href="../img/guide_edc_03.png" target="_blank"><img alt="Overview of Veeva EDC Integration Plans" src="../img/guide_edc_03.png" /></a></p>
+<p class="imageDescription">Figure 2: Overview of Veeva EDC Integration Plans</p>
+<p><strong>In short</strong> - the long-term vision is the following:</p>
+<ul>
+<li>Maintain CRF Forms, ItemGroups and Items in Veeva EDC with additional attributes, for example system display configuration</li>
+<li>Synchronize CRF objects between OpenStudyBuilder and Veeva CRF library, supported by a compare tool (this will be done via API after Veeva's release)</li>
+<li>Select activity instances in Schedule of Activities for visits (which are linked to CRF objects - Level 4). </li>
+<li>Perform automation setup calling the Veeva APIs to setup a new empty study, create event groups and events, copy the CRF forms and create the schedule.</li>
+<li>After study setup in DEV, use this new study in VAL and PROD</li>
+</ul>
+<p>Note: We're in dialog with Veeva to prioritize new APIs on their roadmap that will enable OpenStudyBuilder to synchronize objects between libraries at both the library and study level.</p>
+<p><strong>Explanation</strong> </p>
+<p>In the OpenStudyBuilder the CRF relevant information is defined in the library module in Forms, ItemGroups and Items. The Veeva EDC System contains also a CRF Library module storing the same. The idea is to have a synchronization job to keep both libraries containing the same high level information, containing linkage information in OpenStudyBuilder. Due to the limitations of the current version of the Veeva API, the current plan is to maintain and update the form information within the Veeva system and create the corresponding objects in OpenStudyBuilder via an automation job.</p>
+<p>A further step is required to update and maintain the data specifications. Next to activities which define high-level meaning, we need to define activity instances - which is a concrete definition required for data specification. This contains next to the final SDTM location for example additionally the form, item and item group links. This is typically done by a standards function at the Library level of the OpenStudyBuilder.</p>
+<p>On study setup, an activity is selected for the schedule of activities which is used in the clinical protocol, after the Epoch and the Visits have been created. Then these activities are further fine-tuned with selecting the activity instances. By selecting the activity instance, the linkage of a selected activity and the corresponding required CRF elements are available, for each dedicated visit.</p>
+<p>This specification can now be used to generate a very specific formatted JSON file, that can then be consumed by a Python script that is calling the Veeva API to setup the study in Veeva EDC. We are working on a process (robot), to setup the Veeva CMDS study database:</p>
+<ul>
+<li>Create Study Master (this is an empty new study in Veeva)</li>
+<li>Create Event Group Definitions (this is a group of events - working like a Cycle in an oncologic study)</li>
+<li>Create Event Definitions (based on the OpenStudyBuilder visits used by the SoA)</li>
+<li>Copy Form Definitions from the Veeva CRF Library (based on the Activity Instances selected in the SoA, linked to the eCRF forms)</li>
+<li>Create Schedule (binding the Veeva Forms to the Event created before)</li>
+</ul>
+<p>This is then checked in the Veeva EDC system and will then be used for the study setup in VAL and PROD.</p>
+<h3 id="detailed-plan">Detailed Plan<a class="headerlink" href="#detailed-plan" title="Permanent link">&para;</a></h3>
+<p>Actually, to see the details of the elements and how this is all linked together, a more detailed view is required. The following section describes additional details. </p>
+<p class="imageParagraph"><a href="../img/guide_edc_04.png" target="_blank"><img alt="Detailed Overview of Veeva EDC Integration Plans" src="../img/guide_edc_04.png" /></a></p>
+<p class="imageDescription">Figure 3: Detailed Overview of Veeva EDC Integration Plans</p>
+<p>The following legend is used to describe the elements:</p>
+<table>
+<thead>
+<tr>
+<th>Description</th>
+<th>Icon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Veeva EDC Form</td>
+<td><img alt="Veeva EDC Form" class="imageMaxWidth400" src="../img/guide_edc_04_001_01.png" /></td>
+</tr>
+<tr>
+<td>OpenStudyBuilder Form</td>
+<td><img alt="OpenStudyBuilder Form" class="imageMaxWidth400" src="../img/guide_edc_04_001_02.png" /></td>
+</tr>
+<tr>
+<td>Steps not fully supported</td>
+<td><img alt="Steps not fully supported" class="imageMaxWidth400" src="../img/guide_edc_04_001_03.png" /></td>
+</tr>
+<tr>
+<td>Veeva event group</td>
+<td><img alt="Veeva event group" class="imageMaxWidth400" src="../img/guide_edc_04_001_04.png" /></td>
+</tr>
+<tr>
+<td>Veeva event label</td>
+<td><img alt="Veeva label" class="imageMaxWidth400" src="../img/guide_edc_04_001_05.png" /></td>
+</tr>
+<tr>
+<td>OpenStudyBuilder Epoch</td>
+<td><img alt="OpenStudyBuilder Epoch" class="imageMaxWidth400" src="../img/guide_edc_04_001_06.png" /></td>
+</tr>
+<tr>
+<td>OpenStudyBuilder Visit</td>
+<td><img alt="OpenStudyBuilder Visit" class="imageMaxWidth400" src="../img/guide_edc_04_001_07.png" /></td>
+</tr>
+<tr>
+<td>OpenStudyBuilder Activity</td>
+<td><img alt="OpenStudyBuilder Activity" class="imageMaxWidth400" src="../img/guide_edc_04_001_08.png" /></td>
+</tr>
+</tbody>
+</table>
+<p>Let's get through the process steps.</p>
+<p class="imageParagraph"><img alt="Process Steps - eCRF Libraries" src="../img/guide_edc_04_002.png" /></p>
+<p class="imageDescription">Figure 4: Process Steps - eCRF Libraries</p>
+<p>As a first steps, the eCRF forms are created in the Veeva eCRF Library including the ItemGroups and Items (1). An important value is the reference ID. The synchronization job (2) will create the corresponding objects in the OpenStudyBuilder eCRF library (3) using additionally the linkage information (reference ID).</p>
+<p class="imageParagraph imageMaxWidth600"><img alt="Process Steps - Activity Setup" src="../img/guide_edc_04_007.png" /></p>
+<p class="imageDescription">Figure 5: Process Steps - Activity Setup</p>
+<p>In the steps step, the activity instances need to be enhanced. Within the OpenStudyBuilder Activity Library (4), the activity (general concepts) and activity instances (dataset specifications) are managed. The activity instances are linked to the CRF elements (5). The link to the Form, ItemGroup and Item is managed in accordance with the ODM standard.</p>
+<p class="imageParagraph imageMaxWidth600"><img alt="Process Steps - Study SoA Setup" src="../img/guide_edc_04_003.png" /></p>
+<p class="imageDescription">Figure 6: Process Steps - Study SoA Setup</p>
+<p>In a study (6), in the OpenStudyBuilder, a schedule of activity (SoA) is created (7). In the study, epochs are defined and used along with visits. A specific activity is selected for the study protocol and further fine-tuned by selecting a corresponding connected activity instance and associated with specific visits. As the linkage information is available in the standard, the visits can bind to concrete eCRF Forms including ItemGroups and Items (8).</p>
+<p class="imageParagraph imageMaxWidth600"><img alt="Process Steps - Veeva EDC Study Setup" src="../img/guide_edc_04_005.png" /></p>
+<p class="imageDescription">Figure 7: Process Steps - Veeva EDC Study Setup</p>
+<p>As we are now having all required information available, the Veeva EDC setup for the specific study can be created. First (1), the study is created if not already available storing the ID back in OpenStudyBuilder. Then the event group definitions are created (2) containing the Epochs (this is a first approach). The next step created events (3) which corresponds to the visit. The form definitions are copied from the Veeva eCRF Library (4) using the ID which are stored along. Finally, the Schedule is created (5) assigning the visits to the forms.</p>
+<p>There is a "robot" program which creates and performs the final required API calls in the Veeva EDC system. This automatic setup is performed in a DEV instance of the Veeva EDC system. Until new APIs allow for further updates, we need to perform trial specific adjustments and form additions for now when required. After setup, checks can be performed within Veeva and then the study can be setup in VAL and PROD afterwards.</p>
+<h2 id="oracle-edc-integration">Oracle EDC Integration<a class="headerlink" href="#oracle-edc-integration" title="Permanent link">&para;</a></h2>
+<p>Oracle has developed the <strong>Automated Study Builder Application</strong> to streamline the setup of studies in Oracle Clinical One EDC using OpenStudyBuilder. The tool taps into the OpenStudyBuilder CRF library and the study setup for the schedule of activities (SoA).</p>
+<p class="imageParagraph imageMaxWidth600"><img alt="Overview of Oracle EDC Integration" src="../img/guide_edc_05.png" /></p>
+<p class="imageDescription">Figure 8: Overview of Oracle EDC Integration</p>
+<p>The CRF forms, item groups and items can be enhanced using the extension mechanism from the ODM.xml standard. Oracle is using this to manage in the OpenStudyBuilder CRF library additional information like edit checks or ranges. </p>
+<p>The Automated Study Builder Application is the interface where the the information from OpenStudyBuilder is read and processed to setup the study in the Clinical One EDC system. Here we see how the digital data flow enables automation. </p>
+<h3 id="demonstration-videos">Demonstration Videos<a class="headerlink" href="#demonstration-videos" title="Permanent link">&para;</a></h3>
+<p>Discover how Oracle's Automated Study Builder leverages OpenStudyBuilder to streamline EDC setup in Oracle Clinical One. This <strong>comprehensive overview</strong> demonstrates the seamless integration and automation capabilities that transform traditional study building processes (2025-07-03).</p>
+<iframe 
+  id="kaltura_player" 
+  src='https://cdnapisec.kaltura.com/p/2171811/embedPlaykitJs/uiconf_id/54927872?iframeembed=true&amp;entry_id=1_i20m4bvk&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_3n7fkv6k%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  
+  style="width: 720px;height: 400px;border: 0;" 
+  allowfullscreen 
+  webkitallowfullscreen 
+  mozAllowFullScreen 
+  allow="autoplay *; fullscreen *; encrypted-media *" 
+  sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" 
+  title="Automated Study Builder with OSB Introduction">
+</iframe>
+
+<p>Watch this demonstration of Oracle's intelligent study building capabilities, showcasing the powerful integration between OpenStudyBuilder and Oracle Clinical One EDC system. See how clinical data management workflows are revolutionized through intelligent automation (2024-06-14).</p>
+<p><iframe
+  title="Intelligent Study Build - Oracle integration with OpenStudyBuilder"
+  width=720
+  height=400
+  src="https://www.youtube.com/embed/4-33kqSTdeY"
+  frameBorder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+
+
+<!-- Footer -->
+<footer class="md-footer">
+  <!-- Further information -->
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+
+      <!-- Copyright and theme information -->
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2026 OpenStudyBuilder Project
+          </div>
+        
+        
+
+        <!-- Custom footer links -->
+        <p style="margin-top: 0.3rem; color: var(--md-footer-fg-color--lighter);">
+          <a href="https://github.com/NovoNordisk-OpenSource/openstudybuilder-description" target="_blank" rel="noopener" style="color: var(--md-footer-fg-color--lighter); text-decoration: none;">
+            Site Source
+          </a>&nbsp;|&nbsp;
+          <a href="../../privacy_policy/" style="color: var(--md-footer-fg-color--lighter); text-decoration: none;">
+            Privacy Policy
+          </a>&nbsp;|&nbsp;
+          <a href="../../imprint/" style="color: var(--md-footer-fg-color--lighter); text-decoration: none;">
+            Imprint
+          </a>
+        </p>
+      </div>
+
+      <!-- Social links -->
+      
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tabs", "navigation.indexes"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
