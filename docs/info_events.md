@@ -6,10 +6,10 @@ Date | Event | Status
 -- | -- | --
 13 October 2026 | Community Meeting (virtual) | Scheduled
 13-14 October 2026 | Scope Summit | Scheduled
+22 October 2026 | PHUSE SDE Copenhagen, Denmark | Scheduled
 15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland | Scheduled
 Q4 | Webinar - OpenStudyBuilder Demonstration | Planned
 Q4 | Webinar - OpenStudyBuilder Collaboration | Planned
-
 
 ## Scope Summit
 
@@ -30,6 +30,14 @@ Additional event information [here](https://www.scopesummiteurope.com/){target=_
 Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
 
 You can register for the event [here](https://www.linkedin.com/event/manage/7481312095653928960/){target=_blank}.
+
+## PHUSE SDE Copenhagen
+
+(22 October 2026, Copenhagen, Denmark)
+
+We will be at the PHUSE SDE in Copenhagen and present a poster on the latest news and updates of OpenStudyBuilder. 
+
+You can register for the event [here](https://events.phuse.global/event/SDE27/copenhagen-denmark){target=_blank}.
 
 ## PHUSE EU Connect
 
