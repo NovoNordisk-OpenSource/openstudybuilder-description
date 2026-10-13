@@ -4,6 +4,7 @@
 
 Date | Event
 -- | --
+13 October 2026 | Community Meeting (virtual)
 22 September 2026 | Community Meeting (virtual)
 17 September 2026 | PHUSE SDE Basel, Switzerland
 1 September 2026 | Community Meeting (virtual)
@@ -18,6 +19,12 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(13 October 2026, virtual event, 15:00-16:00 CEST)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
 
 ### Community Meeting (virtual)
 
