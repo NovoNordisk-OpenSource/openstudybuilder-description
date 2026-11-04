@@ -4,42 +4,11 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
-13-14 October 2026 | [Scope Summit](#scope-summit) | Scheduled
-22 October 2026 | [PHUSE SDE Copenhagen, Denmark](#phuse-sde-copenhagen) | Scheduled
-3 November 2026 | [Community Meeting (virtual)](#community-meeting-virtual) | Scheduled
 15-18 November 2026 | [PHUSE EU Connect - Glasgow, Scotland](#phuse-eu-connect) | Scheduled
 25 November 2026 | [Webinar - OpenStudyBuilder Demonstration](#openstudybuilder-demonstration) | Scheduled
 1 December 2026 | [Community Meeting (virtual)](#community-meeting-virtual_1) | Scheduled
 3 December 2026 | [Webinar - OpenStudyBuilder Collaboration](#openstudybuilder-collaboration) | Scheduled
 12 January 2027 | [Community Meeting (virtual)](#community-meeting-virtual_2) | Scheduled
-
-## Scope Summit
-
-(13-14 October 2026 - Barcelona, Spain)
-
-**Yes, You Can (Digitalise That) - Streamlining Study Design through Protocol Digitalisation**
-
-(by Camilla Kehler, Associate Digital Product Director, Novo)
-
-Too often, clinical trial protocols are held together by a patchwork of disconnected platforms and manual workarounds, a system built on repeated data entry, mismatched formats, and limited data consistency. It's inefficient, error-prone, and a major barrier to accelerating study start-up. This session will explore how biopharmaceutical companies are changing that by digitalizing protocol design and authoring. Using an open-source, vendor-agnostic data model, organizations are automating data flow, improving interoperability across systems, and gaining insight to inform better study design. Join us to see how this approach can unlock new use cases from registry submission to statistical analysis; automate data flow and interoperability between systems; reduce study start-up effort, cycle time, and complexity; improve quality and compliance
-
-Additional event information [here](https://www.scopesummiteurope.com/){target=_blank}.
-
-## PHUSE SDE Copenhagen
-
-(22 October 2026, Copenhagen, Denmark)
-
-We will be at the PHUSE SDE in Copenhagen and present a poster on the latest news and updates of OpenStudyBuilder. 
-
-You can register for the event [here](https://events.phuse.global/event/SDE27/copenhagen-denmark){target=_blank}.
-
-## Community Meeting (virtual)
-
-(3 November 2026, virtual event, 15:00-16:00 CET)
-
-Join us at the OpenStudyBuilder community meeting! Don't miss out on the opportunity to ask any questions to us! We can demonstrate various functionality and provide insightful answers. We can discuss on a wide range of subjects.
-
-You can register for the event [here](https://www.linkedin.com/events/7515775639698841600/){target=_blank}.
 
 ## PHUSE EU Connect
 
@@ -59,7 +28,7 @@ This presentation explores key challenges surrounding open-source collaboration 
 
 ## OpenStudyBuilder Demonstration
 
-(Webinar Series - part 1, 16:00 - 17:30 CET)
+(Webinar Series - part 1, 25 November 2026, 16:00 - 17:30 CET)
 
 **OpenStudyBuilder in Action - From Study Design to Downstream Automation**
 
@@ -77,7 +46,7 @@ You can register for the event [here](https://www.linkedin.com/events/7515776353
 
 ## OpenStudyBuilder Collaboration
 
-(Webinar Series - part 2, 16:00 - 17:30 CET)
+(Webinar Series - part 2, 3 December 2026, 16:00 - 17:30 CET)
 
 **OpenStudyBuilder: From Open Source to an Industry Collaboration**
 
