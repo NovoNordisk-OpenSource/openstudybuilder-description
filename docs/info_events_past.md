@@ -4,6 +4,9 @@
 
 Date | Event
 -- | --
+3 November 2026 | Community Meeting (virtual)
+22 October 2026 | PHUSE SDE Copenhagen, Denmark
+13-14 October 2026 | Scope Summit - Barcelona, Spain 
 13 October 2026 | Community Meeting (virtual)
 22 September 2026 | Community Meeting (virtual)
 17 September 2026 | PHUSE SDE Basel, Switzerland
@@ -19,6 +22,33 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Community Meeting (virtual)
+
+(3 November 2026, virtual event, 15:00-16:00 CET)
+
+We discussed various aspects of the OpenStudyBuilder in our monthly community meeting.
+
+### PHUSE SDE Copenhagen
+
+(22 October 2026, Copenhagen, Denmark)
+
+We was at the PHUSE SDE in Copenhagen and presented a poster on the latest news and updates of OpenStudyBuilder. 
+
+The poster can be accessed [here](./presentations/2026-10-22-OSB-Poster-SDE_copenhagen.pdf){target=_blank}.
+
+### Scope Summit
+
+(13-14 October 2026 - Barcelona, Spain)
+
+**Yes, You Can (Digitalise That) - Streamlining Study Design through Protocol Digitalisation**
+
+(by Camilla Kehler, Associate Digital Product Director, Novo)
+
+Too often, clinical trial protocols are held together by a patchwork of disconnected platforms and manual workarounds, a system built on repeated data entry, mismatched formats, and limited data consistency. It's inefficient, error-prone, and a major barrier to accelerating study start-up. This session will explore how biopharmaceutical companies are changing that by digitalizing protocol design and authoring. Using an open-source, vendor-agnostic data model, organizations are automating data flow, improving interoperability across systems, and gaining insight to inform better study design. Join us to see how this approach can unlock new use cases from registry submission to statistical analysis; automate data flow and interoperability between systems; reduce study start-up effort, cycle time, and complexity; improve quality and compliance
+
+The presentation slides will be available soon.
+
 
 ### Community Meeting (virtual)
 
