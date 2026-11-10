@@ -4,11 +4,23 @@ Overview
 
 Date | Event | Status 
 -- | -- | --
+11 November 2026 | Neo4j Graph Meetup - Berlin, Germany | Scheduled
 15-18 November 2026 | [PHUSE EU Connect - Glasgow, Scotland](#phuse-eu-connect) | Scheduled
 25 November 2026 | [Webinar - OpenStudyBuilder Demonstration](#openstudybuilder-demonstration) | Scheduled
 1 December 2026 | [Community Meeting (virtual)](#community-meeting-virtual_1) | Scheduled
 3 December 2026 | [Webinar - OpenStudyBuilder Collaboration](#openstudybuilder-collaboration) | Scheduled
 12 January 2027 | [Community Meeting (virtual)](#community-meeting-virtual_2) | Scheduled
+
+
+## Neo4j Graph Meetup
+
+(11 November 2026 - Berlin, Germany)
+
+Berlin Knowledge Graph Meetup: Pharma & Life Sciences
+
+Join us in Berlin for an evening that brings the Pharma & Life Sciences and knowledge graph community together, with talks on how teams model these connections in Neo4j, from clinical study metadata to real-time asset data. Through practical talks and real-world use cases, we'll explore knowledge graphs, GraphRAG and connected clinical data, from the latest approaches to building context for AI to practical applications across pharmaceutical R&D and clinical trials.
+
+Additional event information and registration is available [here](https://events.neo4j.com/berlinpharmakgmeetup){target=_blank}.
 
 ## PHUSE EU Connect
 
