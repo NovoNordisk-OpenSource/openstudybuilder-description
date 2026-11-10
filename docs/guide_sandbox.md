@@ -22,12 +22,12 @@ The following tools and URLs are available after registration
 
 Tool | Login | Note
 --|--|--
-OpenStudyBuilder Application | [https://sandbox.openstudybuilder.com/](https://sandbox.openstudybuilder.com/){target=_blank} <br/>Click "Login" and register with the mail used for registration<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/){target=_blank} | main application
-Documentation | [https://sandbox.openstudybuilder.com/doc/](https://sandbox.openstudybuilder.com/doc/){target=_blank} <br/>No authentication required<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/doc/){target=_blank} | product related documentation
-API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/api/docs){target=_blank} <br/>Use "Authorize" button to authenticate<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/api/docs/){target=_blank} | API documentation and running API calls
+OpenStudyBuilder Application | [https://sandbox.openstudybuilder.com/](https://sandbox.openstudybuilder.com/){target=_blank} <br/>Click "Login" and register with the mail used for registration | main application
+Documentation | [https://sandbox.openstudybuilder.com/doc/](https://sandbox.openstudybuilder.com/doc/){target=_blank} <br/>No authentication required | product related documentation
+API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
 Consumer API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/consumer-api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
-NeoDash | [https://sandbox.openstudybuilder.com/neodash/](https://sandbox.openstudybuilder.com/neodash/){target=_blank} <br/>Use "SSO" Single Sign-On<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/neodash/){target=_blank} | Dashboard for underlying database
-DB Browser | [https://sandbox.openstudybuilder.com/browser/](https://sandbox.openstudybuilder.com/browser/){target=_blank} <br/>Use "SSO" Single Sign-On<br/>[Legacy Site](https://openstudybuilder.northeurope.cloudapp.azure.com/browser/){target=_blank} | Browser for underlying database
+NeoDash | [https://sandbox.openstudybuilder.com/neodash/](https://sandbox.openstudybuilder.com/neodash/){target=_blank} | Dashboard for underlying database
+DB Browser | [https://sandbox.openstudybuilder.com/browser/](https://sandbox.openstudybuilder.com/browser/){target=_blank} <br/>username "readonly" and password "osbreadonly" | Browser for underlying database
 
 ### Getting Access
 

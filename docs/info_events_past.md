@@ -4,6 +4,7 @@
 
 Date | Event
 -- | --
+11 November 2026 | Neo4j Graph Meetup - Berlin, Germany
 3 November 2026 | Community Meeting (virtual)
 22 October 2026 | PHUSE SDE Copenhagen, Denmark
 13-14 October 2026 | Scope Summit - Barcelona, Spain 
@@ -22,6 +23,18 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### Neo4j Graph Meetup
+
+Berlin Knowledge Graph Meetup: Pharma & Life Sciences
+
+Join us in Berlin for an evening that brings the Pharma & Life Sciences and knowledge graph community together, with talks on how teams model these connections in Neo4j, from clinical study metadata to real-time asset data. Through practical talks and real-world use cases, we'll explore knowledge graphs, GraphRAG and connected clinical data, from the latest approaches to building context for AI to practical applications across pharmaceutical R&D and clinical trials.
+
+**From Documents to Connected Metadata: Graphs in Clinical Trials**
+
+Clinical study specifications have long been spread across documents that people synchronize by hand. We show how OpenStudyBuilder uses Neo4j to link study design, standards and data collection, and why these links are the foundation for digital data flow.
+
+The presentation slides are available [here](./presentations/2026-11-11-GraphMeetup.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
@@ -47,8 +60,7 @@ The poster can be accessed [here](./presentations/2026-10-22-OSB-Poster-SDE_cope
 
 Too often, clinical trial protocols are held together by a patchwork of disconnected platforms and manual workarounds, a system built on repeated data entry, mismatched formats, and limited data consistency. It's inefficient, error-prone, and a major barrier to accelerating study start-up. This session will explore how biopharmaceutical companies are changing that by digitalizing protocol design and authoring. Using an open-source, vendor-agnostic data model, organizations are automating data flow, improving interoperability across systems, and gaining insight to inform better study design. Join us to see how this approach can unlock new use cases from registry submission to statistical analysis; automate data flow and interoperability between systems; reduce study start-up effort, cycle time, and complexity; improve quality and compliance
 
-The presentation slides will be available soon.
-
+The presentation slides are available [here](./presentations/2026-10-14-SCOPE_DDF_NN.pdf){target=_blank}.
 
 ### Community Meeting (virtual)
 
