@@ -4,6 +4,8 @@
 
 Date | Event
 -- | --
+25 November 2026 | Webinar - OpenStudyBuilder Demonstration (virtual)
+15-18 November 2026 | PHUSE EU Connect - Glasgow, Scotland
 11 November 2026 | Neo4j Graph Meetup - Berlin, Germany
 3 November 2026 | Community Meeting (virtual)
 22 October 2026 | PHUSE SDE Copenhagen, Denmark
@@ -23,6 +25,34 @@ Date | Event
 9 March 2026 | Community Meeting (virtual) 
 9 February 2026 | Community Meeting (virtual) 
 12 January 2026 | Community Meeting (virtual)
+
+### OpenStudyBuilder Demonstration
+
+(Webinar Series - part 1, 25 November 2026, 16:00 - 17:30 CET)
+
+**OpenStudyBuilder in Action - From Study Design to Downstream Automation**
+
+In this webinar we gave an introduction to OpenStudyBuilder and showed how it supports clinical study design and downstream automation. Through practical examples and short step-by-step demonstrations, we showed how OpenStudyBuilder works, explored its key capabilities, and where it could fit into your workflows.
+
+The presentation slides are available [here](./presentations/2026-11-25-webinar-OSB-Demonstration.pdf){target=_blank}.<br/>
+Video recording is available on [YouTube](https://youtu.be/zcmb2MgOYSc){target=_blank}.
+
+### PHUSE EU Connect
+
+(15-18 November 2026 - Glasgow, Scotland)
+
+We joined the PHUSE EU Connect in Glasgow and presented on collaboration challenges.
+
+**Beyond Code: Collaboration Challenges in Pharma Open Source**
+
+(by Mikkel Traun, Novo Nordisk and Katja Gla&szlig;, Consultant)
+
+Open-source adoption in the pharmaceutical industry continues to grow, yet sustainable contributions and long-term collaboration remain significant challenges. Compared to other industries, contribution models in pharma are often limited by complexity, compliance expectations, fragmented ownership, and uncertainty around governance and maintenance responsibilities.
+
+This presentation explores key challenges surrounding open-source collaboration in clinical research using OpenStudyBuilder as a practical example. It outlines the considerations, experiences, and developments that led to the creation of a collaborative alliance model designed to strengthen industry alignment, co-development, and long-term sustainability. The session highlights how the alliance evolved, its current state, and its future direction in advancing OpenStudyBuilder toward enabling a truly connected digital data flow for the pharmaceutical industry.
+
+The presentation slides are available [here](./presentations/2026-11-17-PHUSE-PRE_OS06.pdf){target=_blank}.<br/>
+The paper is available [here](./presentations/2026-11-17-PhusePaper-PAP_OS06.pdf){target=_blank}.
 
 ### Neo4j Graph Meetup
 
