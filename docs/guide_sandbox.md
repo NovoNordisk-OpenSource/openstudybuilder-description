@@ -27,13 +27,15 @@ Documentation | [https://sandbox.openstudybuilder.com/doc/](https://sandbox.open
 API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
 Consumer API | [https://sandbox.openstudybuilder.com/api/docs](https://sandbox.openstudybuilder.com/consumer-api/docs){target=_blank} <br/>Use "Authorize" button to authenticate | API documentation and running API calls
 NeoDash | [https://sandbox.openstudybuilder.com/neodash/](https://sandbox.openstudybuilder.com/neodash/){target=_blank} | Dashboard for underlying database
-DB Browser | [https://sandbox.openstudybuilder.com/browser/](https://sandbox.openstudybuilder.com/browser/){target=_blank} <br/>username "readonly" and password "osbreadonly" | Browser for underlying database
+DB Browser | [https://sandbox.openstudybuilder.com/browser/](https://sandbox.openstudybuilder.com/browser/){target=_blank} <br/>use SSO for single-sign-on | Browser for underlying database
 
 ### Getting Access
 
 The public sandbox provides a convenient way for anyone to explore and test OpenStudyBuilder without the need to install any software. To request access to the sandbox environment, simply send an email to <a href="mailto:openstudybuilder@htp42.com?subject=Request%20Sandbox%20Access">openstudybuilder@htp42.com (Request Sandbox Access)</a>. 
 
 Please be aware that the sandbox is refreshed periodically, which means any data you create will be lost after a refresh. Additionally, all data in the sandbox is publicly accessible to anyone with sandbox access. For transparency and traceability, all data entries are tracked with the user's email address and are visible to everyone using the sandbox. Therefore, please avoid entering any sensitive or confidential information. The sandbox is intended for evaluation and learning purposes only and can be access at [https://sandbox.openstudybuilder.com/](https://sandbox.openstudybuilder.com/){target=_blank}.
+
+If you forgot your password or did not receive the access mail, you can reset your password at [https://sandbox-idp.htp42.site/accounts/password_reset/](https://sandbox-idp.htp42.site/accounts/password_reset/){target=_blank}.
 
 ### The Application
 
